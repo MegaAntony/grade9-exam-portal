@@ -127,12 +127,10 @@ flowchart TD
 - **Canvas Course ID**: `276259`
 - **Instructor**: Dr. Irwin (Room 371)
 - **Primary Assessments**:
-  - **Unit 3 Summative – Part 1 (MCQ)**: **Friday, October 30, 2026**
-  - **Unit 3 Summative – Part 2 (Short Answer / SA)**: **Monday, November 2, 2026**
+  - **Unit 3 Summative – Part 1 (MCQ)**: **Friday, October 30, 2026** (Week 1)
+  - **Unit 3 Summative – Part 2 (Short Answer / SA)**: **Monday, November 2, 2026** (Week 2)
   - *(Unit 3 Lab Packet Check – Formative: Wednesday/Thursday, Oct 28–29)*
-- **Local Master Study Portal & Worked Answer Keys**:
-  - [`Unit_03_Summative_Study_Portal.html`](file:///Volumes/Backup/Antony/HighSchool/Grade9/000-Exam/Biology-Unit-3-Summative/Unit_03_Summative_Study_Portal.html) (Interactive Portal + 25-Q Summative Simulator)
-  - [`Unit_03_Summative_Master_Study_Guide_and_Keys.md`](file:///Volumes/Backup/Antony/HighSchool/Grade9/000-Exam/Biology-Unit-3-Summative/Unit_03_Summative_Master_Study_Guide_and_Keys.md) (Full Review Stations 1–8 Key + 17-Page Lab Packet Key + SA Blueprints)
+- **Subject Repository Location**: [`../Biology-Honors-V2/units/unit-03-cellular-energetics/`](../Biology-Honors-V2/units/unit-03-cellular-energetics/)
 
 #### Scope & Tested Objectives (Unit 3: Cellular Energy & Metabolism)
 1. **Enzymes & Biochemical Reactions**:
@@ -148,13 +146,6 @@ flowchart TD
    - Light-Dependent Reactions (thylakoid membrane; photolysis of water at PSII, ETC 1 making ATP, PSI & ETC 2 making NADPH).
    - Light-Independent Reactions / Calvin Cycle (stroma; carbon fixation via RuBisCO, reduction to G3P/glucose, RuBP regeneration).
    - Algae Beads laboratory inquiry data and bicarbonate pH indicator analysis ($\text{pH } 7.6$ yellow in dark vs. $\text{pH } 9.2$ purple in light).
-
-#### Archived Local PDFs in [`Biology-Unit-3-Summative/materials/`](file:///Volumes/Backup/Antony/HighSchool/Grade9/000-Exam/Biology-Unit-3-Summative/materials/)
-- [`Cellular_Energy_Review_Stations_Student_Handout.pdf`](file:///Volumes/Backup/Antony/HighSchool/Grade9/000-Exam/Biology-Unit-3-Summative/materials/Cellular_Energy_Review_Stations_Student_Handout.pdf) & [`HB_Unit_3_Cellular_Energy_Review_Stations.pdf`](file:///Volumes/Backup/Antony/HighSchool/Grade9/000-Exam/Biology-Unit-3-Summative/materials/HB_Unit_3_Cellular_Energy_Review_Stations.pdf)
-- [`Honors_Biology_Cellular_Respiration_Outline.pdf`](file:///Volumes/Backup/Antony/HighSchool/Grade9/000-Exam/Biology-Unit-3-Summative/materials/Honors_Biology_Cellular_Respiration_Outline.pdf) (*"Look at this Resource!"*)
-- [`Honors_Biology_Photosynthesis_Script_Slides_1_13.pdf`](file:///Volumes/Backup/Antony/HighSchool/Grade9/000-Exam/Biology-Unit-3-Summative/materials/Honors_Biology_Photosynthesis_Script_Slides_1_13.pdf) (Supplementary Notes 3C.1) & [`Honors_Biology_Photosynthesis_Script_Slides_14_19.pdf`](file:///Volumes/Backup/Antony/HighSchool/Grade9/000-Exam/Biology-Unit-3-Summative/materials/Honors_Biology_Photosynthesis_Script_Slides_14_19.pdf) (Supplementary Notes 3C.2)
-- [`HB_Unit_3A_Enzymes_PPT.pdf`](file:///Volumes/Backup/Antony/HighSchool/Grade9/000-Exam/Biology-Unit-3-Summative/materials/HB_Unit_3A_Enzymes_PPT.pdf), [`HB_Unit_3B_Cellular_Respiration_PPT.pdf`](file:///Volumes/Backup/Antony/HighSchool/Grade9/000-Exam/Biology-Unit-3-Summative/materials/HB_Unit_3B_Cellular_Respiration_PPT.pdf), & [`HB_Unit_3C_Photosynthesis_PPT.pdf`](file:///Volumes/Backup/Antony/HighSchool/Grade9/000-Exam/Biology-Unit-3-Summative/materials/HB_Unit_3C_Photosynthesis_PPT.pdf)
-- [`Unit 3 Student Notes Packet 26-27.pdf`](file:///Volumes/Backup/Antony/HighSchool/Grade9/000-Exam/Biology-Unit-3-Summative/materials/Unit%203%20Student%20Notes%20Packet%2026-27.pdf) & [`Unit 3 Lab Packet 26-27.pdf`](file:///Volumes/Backup/Antony/HighSchool/Grade9/000-Exam/Biology-Unit-3-Summative/materials/Unit%203%20Lab%20Packet%2026-27.pdf)
 
 ---
 
