@@ -1,0 +1,130 @@
+{
+  "data": {
+    "assignment": {
+      "id": "82042213",
+      "title": "Aging Populations Quiz",
+      "status": "opened",
+      "scoreDisplay": "full",
+      "studentResponses": "{\"236151992\": {\"VR009470\": [\"C\"], \"questions\": {\"6018f888f73ef6da1adb2766726291d0\": [\"C\"], \"0147473a67e1bb50214a327f92e158a5\": [\"C\"], \"82fe29147d026693e05a50adc1aacdde\": [\"D\"]}, \"VH926786\": [\"C\"], \"VH926462\": [\"D\"]}}",
+      "results": "{\"security\": {\"consumer_key\": \"gHpBBB2lEYn2EDoS\", \"domain\": \"apclassroom.collegeboard.org\", \"timestamp\": \"20261027-0449\", \"signature\": \"$02$072ee0e8d60105fc7cd786a376cc88925dc9bb5649adbf8199f629a232cb75fb\"}, \"request\": {\"reports\": [{\"users\": [{\"id\": \"236151992\", \"name\": \"Antony Anish\"}], \"id\": \"98cf5eaa-5126-427e-a1e2-db189d4199bd\", \"render\": false, \"activities\": [{\"id\": \"22314928_1_28\", \"name\": \"Aging Populations Quiz\"}], \"scoring_type\": \"partial\", \"ui\": \"numeric\", \"type\": \"lastscore-by-activity-by-user\"}], \"organisation_id\": 537, \"meta\": {\"sdk\": {\"version\": \"v0.3.13\", \"lang\": \"python\", \"lang_version\": \"3.12.14\", \"platform\": \"Linux\", \"platform_version\": \"6.1.188-233.385.amzn2023.x86_64\"}}}}",
+      "resultsByItem": "{\"security\": {\"consumer_key\": \"gHpBBB2lEYn2EDoS\", \"domain\": \"apclassroom.collegeboard.org\", \"timestamp\": \"20261027-0449\", \"signature\": \"$02$29a418fc38a1cd07fa5e20e6f532298b7afd2b6bc6f70f07bd1454393ffb54da\"}, \"request\": {\"reports\": [{\"users\": [{\"id\": \"236151992\", \"name\": \"Antony Anish\"}], \"id\": \"b08d1da5-ce7a-4ae7-8b60-65cf21e465b4\", \"render\": false, \"activity_id\": \"22314928_1_28\", \"scoring_type\": \"partial\", \"type\": \"lastscore-by-item-by-user\"}], \"organisation_id\": 537, \"meta\": {\"sdk\": {\"version\": \"v0.3.13\", \"lang\": \"python\", \"lang_version\": \"3.12.14\", \"platform\": \"Linux\", \"platform_version\": \"6.1.188-233.385.amzn2023.x86_64\"}}}}",
+      "timeTaken": [
+        {
+          "studentId": "236151992",
+          "seconds": "176.123848"
+        }
+      ],
+      "questions": [
+        {
+          "id": "594603",
+          "title": "Aging Population Concern",
+          "learnosityItemReference": "VR009470",
+          "sharedStimulus": null,
+          "relatedSkills": [
+            {
+              "title": "Topic",
+              "children": [
+                {
+                  "label": "2.9",
+                  "description": "2.9: Aging Populations",
+                  "category": "2: Population Migration Patterns and Process"
+                }
+              ]
+            },
+            {
+              "title": "Skill",
+              "children": [
+                {
+                  "label": "Skill 2.C",
+                  "description": "Skill 2.C: Explain a likely outcome in a geographic scenario using geographic concepts, processes, models, or theories.",
+                  "category": "Skill Category 2: Analyze geographic patterns, relationships, and outcomes in applied contexts."
+                }
+              ]
+            }
+          ],
+          "relatedOtherTags": [
+            {
+              "label": "2.9",
+              "title": "Aging Populations",
+              "description": "2.9: Aging Populations",
+              "category": "Topic"
+            }
+          ]
+        },
+        {
+          "id": "594599",
+          "title": "Consequences of aging population",
+          "learnosityItemReference": "VH926786",
+          "sharedStimulus": null,
+          "relatedSkills": [
+            {
+              "title": "Topic",
+              "children": [
+                {
+                  "label": "2.9",
+                  "description": "2.9: Aging Populations",
+                  "category": "2: Population Migration Patterns and Process"
+                }
+              ]
+            },
+            {
+              "title": "Skill",
+              "children": [
+                {
+                  "label": "Skill 2.C",
+                  "description": "Skill 2.C: Explain a likely outcome in a geographic scenario using geographic concepts, processes, models, or theories.",
+                  "category": "Skill Category 2: Analyze geographic patterns, relationships, and outcomes in applied contexts."
+                }
+              ]
+            }
+          ],
+          "relatedOtherTags": [
+            {
+              "label": "2.9",
+              "title": "Aging Populations",
+              "description": "2.9: Aging Populations",
+              "category": "Topic"
+            }
+          ]
+        },
+        {
+          "id": "594597",
+          "title": "Indicator of aging population",
+          "learnosityItemReference": "VH926462",
+          "sharedStimulus": null,
+          "relatedSkills": [
+            {
+              "title": "Topic",
+              "children": [
+                {
+                  "label": "2.9",
+                  "description": "2.9: Aging Populations",
+                  "category": "2: Population Migration Patterns and Process"
+                }
+              ]
+            },
+            {
+              "title": "Skill",
+              "children": [
+                {
+                  "label": "Skill 2.C",
+                  "description": "Skill 2.C: Explain a likely outcome in a geographic scenario using geographic concepts, processes, models, or theories.",
+                  "category": "Skill Category 2: Analyze geographic patterns, relationships, and outcomes in applied contexts."
+                }
+              ]
+            }
+          ],
+          "relatedOtherTags": [
+            {
+              "label": "2.9",
+              "title": "Aging Populations",
+              "description": "2.9: Aging Populations",
+              "category": "Topic"
+            }
+          ]
+        }
+      ],
+      "categories": "['Topic', 'Skill']"
+    }
+  }
+}

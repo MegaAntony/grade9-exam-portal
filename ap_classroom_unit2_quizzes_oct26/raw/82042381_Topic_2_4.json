@@ -1,0 +1,130 @@
+{
+  "data": {
+    "assignment": {
+      "id": "82042381",
+      "title": "Population Dynamics Quiz",
+      "status": "opened",
+      "scoreDisplay": "full",
+      "studentResponses": "{\"236151992\": {\"VH911626\": [\"B\"], \"questions\": {\"71db369c06c5140fe4f7d2fbd107e141\": [\"B\"], \"2d1fbe3db011c248303a581a2a0c7a38\": [\"A\"], \"184ccfbeb85b61c8005de3d9e91443a9\": [\"C\"]}, \"VH911869\": [\"A\"], \"VH917081\": [\"C\"]}}",
+      "results": "{\"security\": {\"consumer_key\": \"gHpBBB2lEYn2EDoS\", \"domain\": \"apclassroom.collegeboard.org\", \"timestamp\": \"20261027-0449\", \"signature\": \"$02$4d1355b828a398f0d1cf4dd1906f607c8945046f8e3819b28ac6dc75354a92b9\"}, \"request\": {\"reports\": [{\"users\": [{\"id\": \"236151992\", \"name\": \"Antony Anish\"}], \"id\": \"dfe906d7-5541-4ee2-a2ad-b35029677531\", \"render\": false, \"activities\": [{\"id\": \"22314987_1_28\", \"name\": \"Population Dynamics Quiz\"}], \"scoring_type\": \"partial\", \"ui\": \"numeric\", \"type\": \"lastscore-by-activity-by-user\"}], \"organisation_id\": 537, \"meta\": {\"sdk\": {\"version\": \"v0.3.13\", \"lang\": \"python\", \"lang_version\": \"3.12.14\", \"platform\": \"Linux\", \"platform_version\": \"6.1.188-233.385.amzn2023.x86_64\"}}}}",
+      "resultsByItem": "{\"security\": {\"consumer_key\": \"gHpBBB2lEYn2EDoS\", \"domain\": \"apclassroom.collegeboard.org\", \"timestamp\": \"20261027-0449\", \"signature\": \"$02$649eb3c18dced190d149e721262493633336d8752b92f13f63c0e16454eb3d0f\"}, \"request\": {\"reports\": [{\"users\": [{\"id\": \"236151992\", \"name\": \"Antony Anish\"}], \"id\": \"ec4dd61a-96ce-4160-b9bd-c45b6f2eca6e\", \"render\": false, \"activity_id\": \"22314987_1_28\", \"scoring_type\": \"partial\", \"type\": \"lastscore-by-item-by-user\"}], \"organisation_id\": 537, \"meta\": {\"sdk\": {\"version\": \"v0.3.13\", \"lang\": \"python\", \"lang_version\": \"3.12.14\", \"platform\": \"Linux\", \"platform_version\": \"6.1.188-233.385.amzn2023.x86_64\"}}}}",
+      "timeTaken": [
+        {
+          "studentId": "236151992",
+          "seconds": "331.020412"
+        }
+      ],
+      "questions": [
+        {
+          "id": "594581",
+          "title": "Development and demographic indicators",
+          "learnosityItemReference": "VH911626",
+          "sharedStimulus": null,
+          "relatedSkills": [
+            {
+              "title": "Topic",
+              "children": [
+                {
+                  "label": "2.4",
+                  "description": "2.4: Population Dynamics",
+                  "category": "2: Population Migration Patterns and Process"
+                }
+              ]
+            },
+            {
+              "title": "Skill",
+              "children": [
+                {
+                  "label": "Skill 3.C",
+                  "description": "Skill 3.C: Explain patterns and trends in maps and in quantitative and geospatial data to draw conclusions.",
+                  "category": "Skill Category 3: Analyze and interpret quantitative geographic data represented in maps, tables, charts, graphs, satellite images, and infographics."
+                }
+              ]
+            }
+          ],
+          "relatedOtherTags": [
+            {
+              "label": "2.4",
+              "title": "Population Dynamics",
+              "description": "2.4: Population Dynamics",
+              "category": "Topic"
+            }
+          ]
+        },
+        {
+          "id": "594569",
+          "title": "Megacity population growth",
+          "learnosityItemReference": "VH911869",
+          "sharedStimulus": null,
+          "relatedSkills": [
+            {
+              "title": "Topic",
+              "children": [
+                {
+                  "label": "2.4",
+                  "description": "2.4: Population Dynamics",
+                  "category": "2: Population Migration Patterns and Process"
+                }
+              ]
+            },
+            {
+              "title": "Skill",
+              "children": [
+                {
+                  "label": "Skill 3.C",
+                  "description": "Skill 3.C: Explain patterns and trends in maps and in quantitative and geospatial data to draw conclusions.",
+                  "category": "Skill Category 3: Analyze and interpret quantitative geographic data represented in maps, tables, charts, graphs, satellite images, and infographics."
+                }
+              ]
+            }
+          ],
+          "relatedOtherTags": [
+            {
+              "label": "2.4",
+              "title": "Population Dynamics",
+              "description": "2.4: Population Dynamics",
+              "category": "Topic"
+            }
+          ]
+        },
+        {
+          "id": "594534",
+          "title": "Population growth in the twenty-first century",
+          "learnosityItemReference": "VH917081",
+          "sharedStimulus": null,
+          "relatedSkills": [
+            {
+              "title": "Topic",
+              "children": [
+                {
+                  "label": "2.4",
+                  "description": "2.4: Population Dynamics",
+                  "category": "2: Population Migration Patterns and Process"
+                }
+              ]
+            },
+            {
+              "title": "Skill",
+              "children": [
+                {
+                  "label": "Skill 3.C",
+                  "description": "Skill 3.C: Explain patterns and trends in maps and in quantitative and geospatial data to draw conclusions.",
+                  "category": "Skill Category 3: Analyze and interpret quantitative geographic data represented in maps, tables, charts, graphs, satellite images, and infographics."
+                }
+              ]
+            }
+          ],
+          "relatedOtherTags": [
+            {
+              "label": "2.4",
+              "title": "Population Dynamics",
+              "description": "2.4: Population Dynamics",
+              "category": "Topic"
+            }
+          ]
+        }
+      ],
+      "categories": "['Topic', 'Skill']"
+    }
+  }
+}

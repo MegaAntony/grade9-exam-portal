@@ -1,0 +1,130 @@
+{
+  "data": {
+    "assignment": {
+      "id": "82042236",
+      "title": "Population Policies Quiz",
+      "status": "opened",
+      "scoreDisplay": "full",
+      "studentResponses": "{\"236151992\": {\"VH926693\": [\"C\"], \"questions\": {\"d7603dd0a89724db6ebbdff34c8e8a9e\": [\"C\"], \"a2f935576462527f540fdfa7d425f2b6\": [\"B\"], \"c2bacd88c65f7d35c69552a21b2a27e7\": [\"E\"]}, \"VH926854\": [\"B\"], \"VH926253\": [\"E\"]}}",
+      "results": "{\"security\": {\"consumer_key\": \"gHpBBB2lEYn2EDoS\", \"domain\": \"apclassroom.collegeboard.org\", \"timestamp\": \"20261027-0449\", \"signature\": \"$02$bbce02cb5aaf7a0249e2ebba2163fb44f5ced0b569ede57f6c9a2001e1cc7edb\"}, \"request\": {\"reports\": [{\"users\": [{\"id\": \"236151992\", \"name\": \"Antony Anish\"}], \"id\": \"74c1ef9b-1b52-41a8-8376-336f1c90a681\", \"render\": false, \"activities\": [{\"id\": \"22314940_1_28\", \"name\": \"Population Policies Quiz\"}], \"scoring_type\": \"partial\", \"ui\": \"numeric\", \"type\": \"lastscore-by-activity-by-user\"}], \"organisation_id\": 537, \"meta\": {\"sdk\": {\"version\": \"v0.3.13\", \"lang\": \"python\", \"lang_version\": \"3.12.14\", \"platform\": \"Linux\", \"platform_version\": \"6.1.188-233.385.amzn2023.x86_64\"}}}}",
+      "resultsByItem": "{\"security\": {\"consumer_key\": \"gHpBBB2lEYn2EDoS\", \"domain\": \"apclassroom.collegeboard.org\", \"timestamp\": \"20261027-0449\", \"signature\": \"$02$8d30ebe74505089f2fb8acca2293e5ccbbad22af85d9556ad02243aac3fcb2ec\"}, \"request\": {\"reports\": [{\"users\": [{\"id\": \"236151992\", \"name\": \"Antony Anish\"}], \"id\": \"e11f63da-af1f-428d-8363-9cd503543150\", \"render\": false, \"activity_id\": \"22314940_1_28\", \"scoring_type\": \"partial\", \"type\": \"lastscore-by-item-by-user\"}], \"organisation_id\": 537, \"meta\": {\"sdk\": {\"version\": \"v0.3.13\", \"lang\": \"python\", \"lang_version\": \"3.12.14\", \"platform\": \"Linux\", \"platform_version\": \"6.1.188-233.385.amzn2023.x86_64\"}}}}",
+      "timeTaken": [
+        {
+          "studentId": "236151992",
+          "seconds": "218.060301"
+        }
+      ],
+      "questions": [
+        {
+          "id": "594549",
+          "title": "Consequence of one-child policy",
+          "learnosityItemReference": "VH926693",
+          "sharedStimulus": null,
+          "relatedSkills": [
+            {
+              "title": "Topic",
+              "children": [
+                {
+                  "label": "2.7",
+                  "description": "2.7: Population Policies",
+                  "category": "2: Population Migration Patterns and Process"
+                }
+              ]
+            },
+            {
+              "title": "Skill",
+              "children": [
+                {
+                  "label": "Skill 2.C",
+                  "description": "Skill 2.C: Explain a likely outcome in a geographic scenario using geographic concepts, processes, models, or theories.",
+                  "category": "Skill Category 2: Analyze geographic patterns, relationships, and outcomes in applied contexts."
+                }
+              ]
+            }
+          ],
+          "relatedOtherTags": [
+            {
+              "label": "2.7",
+              "title": "Population Policies",
+              "description": "2.7: Population Policies",
+              "category": "Topic"
+            }
+          ]
+        },
+        {
+          "id": "594557",
+          "title": "Country likely to have pronatalist policies",
+          "learnosityItemReference": "VH926854",
+          "sharedStimulus": null,
+          "relatedSkills": [
+            {
+              "title": "Topic",
+              "children": [
+                {
+                  "label": "2.7",
+                  "description": "2.7: Population Policies",
+                  "category": "2: Population Migration Patterns and Process"
+                }
+              ]
+            },
+            {
+              "title": "Skill",
+              "children": [
+                {
+                  "label": "Skill 2.C",
+                  "description": "Skill 2.C: Explain a likely outcome in a geographic scenario using geographic concepts, processes, models, or theories.",
+                  "category": "Skill Category 2: Analyze geographic patterns, relationships, and outcomes in applied contexts."
+                }
+              ]
+            }
+          ],
+          "relatedOtherTags": [
+            {
+              "label": "2.7",
+              "title": "Population Policies",
+              "description": "2.7: Population Policies",
+              "category": "Topic"
+            }
+          ]
+        },
+        {
+          "id": "594553",
+          "title": "Reasons for antinatalist policies",
+          "learnosityItemReference": "VH926253",
+          "sharedStimulus": null,
+          "relatedSkills": [
+            {
+              "title": "Topic",
+              "children": [
+                {
+                  "label": "2.7",
+                  "description": "2.7: Population Policies",
+                  "category": "2: Population Migration Patterns and Process"
+                }
+              ]
+            },
+            {
+              "title": "Skill",
+              "children": [
+                {
+                  "label": "Skill 2.C",
+                  "description": "Skill 2.C: Explain a likely outcome in a geographic scenario using geographic concepts, processes, models, or theories.",
+                  "category": "Skill Category 2: Analyze geographic patterns, relationships, and outcomes in applied contexts."
+                }
+              ]
+            }
+          ],
+          "relatedOtherTags": [
+            {
+              "label": "2.7",
+              "title": "Population Policies",
+              "description": "2.7: Population Policies",
+              "category": "Topic"
+            }
+          ]
+        }
+      ],
+      "categories": "['Topic', 'Skill']"
+    }
+  }
+}

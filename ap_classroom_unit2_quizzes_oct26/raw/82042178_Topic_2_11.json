@@ -1,0 +1,130 @@
+{
+  "data": {
+    "assignment": {
+      "id": "82042178",
+      "title": "Forced and Voluntary Migration Quiz",
+      "status": "opened",
+      "scoreDisplay": "full",
+      "studentResponses": "{\"236151992\": {\"VH926950\": [\"C\"], \"questions\": {\"fc30f8ca33987221141d3f684418d4d3\": [\"C\"], \"7b5782ce59271c464d0804f1a6c92e45\": [\"A\"], \"77e455de69ec6b06bf5e55dadf0281d7\": [\"A\"]}, \"VH930370\": [\"A\"], \"VH916977\": [\"A\"]}}",
+      "results": "{\"security\": {\"consumer_key\": \"gHpBBB2lEYn2EDoS\", \"domain\": \"apclassroom.collegeboard.org\", \"timestamp\": \"20261027-0449\", \"signature\": \"$02$54f3086232492d5a754ed11d5b9f0dc683656447025fe87b2e1f76a729bfdb62\"}, \"request\": {\"reports\": [{\"users\": [{\"id\": \"236151992\", \"name\": \"Antony Anish\"}], \"id\": \"5c945f67-e15e-46f7-8d58-9c9694c11613\", \"render\": false, \"activities\": [{\"id\": \"22314902_1_28\", \"name\": \"Forced and Voluntary Migration Quiz\"}], \"scoring_type\": \"partial\", \"ui\": \"numeric\", \"type\": \"lastscore-by-activity-by-user\"}], \"organisation_id\": 537, \"meta\": {\"sdk\": {\"version\": \"v0.3.13\", \"lang\": \"python\", \"lang_version\": \"3.12.14\", \"platform\": \"Linux\", \"platform_version\": \"6.1.188-233.385.amzn2023.x86_64\"}}}}",
+      "resultsByItem": "{\"security\": {\"consumer_key\": \"gHpBBB2lEYn2EDoS\", \"domain\": \"apclassroom.collegeboard.org\", \"timestamp\": \"20261027-0449\", \"signature\": \"$02$1816248e27b6e77a40442f571f150e2bdcca94425ffe945241fee9b757399235\"}, \"request\": {\"reports\": [{\"users\": [{\"id\": \"236151992\", \"name\": \"Antony Anish\"}], \"id\": \"115b59ab-817c-4579-880d-b3848284f361\", \"render\": false, \"activity_id\": \"22314902_1_28\", \"scoring_type\": \"partial\", \"type\": \"lastscore-by-item-by-user\"}], \"organisation_id\": 537, \"meta\": {\"sdk\": {\"version\": \"v0.3.13\", \"lang\": \"python\", \"lang_version\": \"3.12.14\", \"platform\": \"Linux\", \"platform_version\": \"6.1.188-233.385.amzn2023.x86_64\"}}}}",
+      "timeTaken": [
+        {
+          "studentId": "236151992",
+          "seconds": "166.510509"
+        }
+      ],
+      "questions": [
+        {
+          "id": "594591",
+          "title": "Asylum seekers from Syria in Europe",
+          "learnosityItemReference": "VH926950",
+          "sharedStimulus": null,
+          "relatedSkills": [
+            {
+              "title": "Topic",
+              "children": [
+                {
+                  "label": "2.11",
+                  "description": "2.11: Forced and Voluntary Migration",
+                  "category": "2: Population Migration Patterns and Process"
+                }
+              ]
+            },
+            {
+              "title": "Skill",
+              "children": [
+                {
+                  "label": "Skill 1.D",
+                  "description": "Skill 1.D: Describe a relevant geographic concept, process, model, or theory in a specified context.",
+                  "category": "Skill Category 1: Analyze geographic theories, approaches, concepts, processes, or models in theoretical and applied contexts."
+                }
+              ]
+            }
+          ],
+          "relatedOtherTags": [
+            {
+              "label": "2.11",
+              "title": "Forced and Voluntary Migration",
+              "description": "2.11: Forced and Voluntary Migration",
+              "category": "Topic"
+            }
+          ]
+        },
+        {
+          "id": "594575",
+          "title": "European Union and asylum seekers",
+          "learnosityItemReference": "VH930370",
+          "sharedStimulus": null,
+          "relatedSkills": [
+            {
+              "title": "Topic",
+              "children": [
+                {
+                  "label": "2.11",
+                  "description": "2.11: Forced and Voluntary Migration",
+                  "category": "2: Population Migration Patterns and Process"
+                }
+              ]
+            },
+            {
+              "title": "Skill",
+              "children": [
+                {
+                  "label": "Skill 1.D",
+                  "description": "Skill 1.D: Describe a relevant geographic concept, process, model, or theory in a specified context.",
+                  "category": "Skill Category 1: Analyze geographic theories, approaches, concepts, processes, or models in theoretical and applied contexts."
+                }
+              ]
+            }
+          ],
+          "relatedOtherTags": [
+            {
+              "label": "2.11",
+              "title": "Forced and Voluntary Migration",
+              "description": "2.11: Forced and Voluntary Migration",
+              "category": "Topic"
+            }
+          ]
+        },
+        {
+          "id": "594533",
+          "title": "South Asian migrants to Persian Gulf",
+          "learnosityItemReference": "VH916977",
+          "sharedStimulus": null,
+          "relatedSkills": [
+            {
+              "title": "Topic",
+              "children": [
+                {
+                  "label": "2.11",
+                  "description": "2.11: Forced and Voluntary Migration",
+                  "category": "2: Population Migration Patterns and Process"
+                }
+              ]
+            },
+            {
+              "title": "Skill",
+              "children": [
+                {
+                  "label": "Skill 1.D",
+                  "description": "Skill 1.D: Describe a relevant geographic concept, process, model, or theory in a specified context.",
+                  "category": "Skill Category 1: Analyze geographic theories, approaches, concepts, processes, or models in theoretical and applied contexts."
+                }
+              ]
+            }
+          ],
+          "relatedOtherTags": [
+            {
+              "label": "2.11",
+              "title": "Forced and Voluntary Migration",
+              "description": "2.11: Forced and Voluntary Migration",
+              "category": "Topic"
+            }
+          ]
+        }
+      ],
+      "categories": "['Topic']"
+    }
+  }
+}

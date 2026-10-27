@@ -1,0 +1,130 @@
+{
+  "data": {
+    "assignment": {
+      "id": "82042191",
+      "title": "Causes of Migration Quiz",
+      "status": "opened",
+      "scoreDisplay": "full",
+      "studentResponses": "{\"236151992\": {\"VH926935\": [\"B\"], \"questions\": {\"7acac08c28eda93734c0da998accc121\": [\"B\"], \"00a324c85ae576ac57a047c0fec59b88\": [\"E\"], \"9f4e401673375be4a58f05ddffe7f26c\": [\"E\"]}, \"VH929891\": [\"E\"], \"VH930357\": [\"E\"]}}",
+      "results": "{\"security\": {\"consumer_key\": \"gHpBBB2lEYn2EDoS\", \"domain\": \"apclassroom.collegeboard.org\", \"timestamp\": \"20261027-0449\", \"signature\": \"$02$ecf2ed1e3021059d234c4772d8ae22343dd2b23748b845eaa8fc9986fd96849a\"}, \"request\": {\"reports\": [{\"users\": [{\"id\": \"236151992\", \"name\": \"Antony Anish\"}], \"id\": \"75093d0d-13e5-4eaa-bbda-e44d4effeba8\", \"render\": false, \"activities\": [{\"id\": \"22314916_1_28\", \"name\": \"Causes of Migration Quiz\"}], \"scoring_type\": \"partial\", \"ui\": \"numeric\", \"type\": \"lastscore-by-activity-by-user\"}], \"organisation_id\": 537, \"meta\": {\"sdk\": {\"version\": \"v0.3.13\", \"lang\": \"python\", \"lang_version\": \"3.12.14\", \"platform\": \"Linux\", \"platform_version\": \"6.1.188-233.385.amzn2023.x86_64\"}}}}",
+      "resultsByItem": "{\"security\": {\"consumer_key\": \"gHpBBB2lEYn2EDoS\", \"domain\": \"apclassroom.collegeboard.org\", \"timestamp\": \"20261027-0449\", \"signature\": \"$02$2e539f1ba58fc866fa00c595e5f8511296d61de817929865a9f23582d8e17f43\"}, \"request\": {\"reports\": [{\"users\": [{\"id\": \"236151992\", \"name\": \"Antony Anish\"}], \"id\": \"f1c29dfd-9df8-49e8-84de-9014426fdf3b\", \"render\": false, \"activity_id\": \"22314916_1_28\", \"scoring_type\": \"partial\", \"type\": \"lastscore-by-item-by-user\"}], \"organisation_id\": 537, \"meta\": {\"sdk\": {\"version\": \"v0.3.13\", \"lang\": \"python\", \"lang_version\": \"3.12.14\", \"platform\": \"Linux\", \"platform_version\": \"6.1.188-233.385.amzn2023.x86_64\"}}}}",
+      "timeTaken": [
+        {
+          "studentId": "236151992",
+          "seconds": "324.758345"
+        }
+      ],
+      "questions": [
+        {
+          "id": "594571",
+          "title": "Emigration to start a business",
+          "learnosityItemReference": "VH926935",
+          "sharedStimulus": null,
+          "relatedSkills": [
+            {
+              "title": "Topic",
+              "children": [
+                {
+                  "label": "2.10",
+                  "description": "2.10: Causes of Migration",
+                  "category": "2: Population Migration Patterns and Process"
+                }
+              ]
+            },
+            {
+              "title": "Skill",
+              "children": [
+                {
+                  "label": "Skill 2.B",
+                  "description": "Skill 2.B: Explain spatial relationships in a specified context or region of the world, using geographic concepts, processes, models, or theories.",
+                  "category": "Skill Category 2: Analyze geographic patterns, relationships, and outcomes in applied contexts."
+                }
+              ]
+            }
+          ],
+          "relatedOtherTags": [
+            {
+              "label": "2.10",
+              "title": "Causes of Migration",
+              "description": "2.10: Causes of Migration",
+              "category": "Topic"
+            }
+          ]
+        },
+        {
+          "id": "594589",
+          "title": "Pull factor for asylum seekers",
+          "learnosityItemReference": "VH929891",
+          "sharedStimulus": null,
+          "relatedSkills": [
+            {
+              "title": "Topic",
+              "children": [
+                {
+                  "label": "2.10",
+                  "description": "2.10: Causes of Migration",
+                  "category": "2: Population Migration Patterns and Process"
+                }
+              ]
+            },
+            {
+              "title": "Skill",
+              "children": [
+                {
+                  "label": "Skill 2.B",
+                  "description": "Skill 2.B: Explain spatial relationships in a specified context or region of the world, using geographic concepts, processes, models, or theories.",
+                  "category": "Skill Category 2: Analyze geographic patterns, relationships, and outcomes in applied contexts."
+                }
+              ]
+            }
+          ],
+          "relatedOtherTags": [
+            {
+              "label": "2.10",
+              "title": "Causes of Migration",
+              "description": "2.10: Causes of Migration",
+              "category": "Topic"
+            }
+          ]
+        },
+        {
+          "id": "594573",
+          "title": "Push - pull factors for refugees",
+          "learnosityItemReference": "VH930357",
+          "sharedStimulus": null,
+          "relatedSkills": [
+            {
+              "title": "Topic",
+              "children": [
+                {
+                  "label": "2.10",
+                  "description": "2.10: Causes of Migration",
+                  "category": "2: Population Migration Patterns and Process"
+                }
+              ]
+            },
+            {
+              "title": "Skill",
+              "children": [
+                {
+                  "label": "Skill 2.B",
+                  "description": "Skill 2.B: Explain spatial relationships in a specified context or region of the world, using geographic concepts, processes, models, or theories.",
+                  "category": "Skill Category 2: Analyze geographic patterns, relationships, and outcomes in applied contexts."
+                }
+              ]
+            }
+          ],
+          "relatedOtherTags": [
+            {
+              "label": "2.10",
+              "title": "Causes of Migration",
+              "description": "2.10: Causes of Migration",
+              "category": "Topic"
+            }
+          ]
+        }
+      ],
+      "categories": "['Topic', 'Skill']"
+    }
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "data": {
+    "assignment": {
+      "id": "82042398",
+      "title": "Consequences of Population Distribution Quiz",
+      "status": "opened",
+      "scoreDisplay": "full",
+      "studentResponses": "{\"236151992\": {\"VH929906\": [\"C\"], \"questions\": {\"6dfd86f14810f74c2c23c4ced0622e4b\": [\"C\"], \"723ebc03b75bfecedf9630862396cea5\": [\"B\"], \"90c384251884a910b18953666fc0d414\": [\"A\"]}, \"VH932892\": [\"B\"], \"VH911513\": [\"A\"]}}",
+      "results": "{\"security\": {\"consumer_key\": \"gHpBBB2lEYn2EDoS\", \"domain\": \"apclassroom.collegeboard.org\", \"timestamp\": \"20261027-0449\", \"signature\": \"$02$0bdde66d1dfe1861ebfcec588e00e9323c06d3de193464ae4ba9ade4a441ebb5\"}, \"request\": {\"reports\": [{\"users\": [{\"id\": \"236151992\", \"name\": \"Antony Anish\"}], \"id\": \"867b46ab-b785-4aed-b1c4-800f24c40222\", \"render\": false, \"activities\": [{\"id\": \"22314991_1_28\", \"name\": \"Consequences of Population Distribution Quiz\"}], \"scoring_type\": \"partial\", \"ui\": \"numeric\", \"type\": \"lastscore-by-activity-by-user\"}], \"organisation_id\": 537, \"meta\": {\"sdk\": {\"version\": \"v0.3.13\", \"lang\": \"python\", \"lang_version\": \"3.12.14\", \"platform\": \"Linux\", \"platform_version\": \"6.1.188-233.385.amzn2023.x86_64\"}}}}",
+      "resultsByItem": "{\"security\": {\"consumer_key\": \"gHpBBB2lEYn2EDoS\", \"domain\": \"apclassroom.collegeboard.org\", \"timestamp\": \"20261027-0449\", \"signature\": \"$02$e11e2a2f17a5a1e6aebdcd51e607186e24cf6ead0205ced2ce9a00345e91d3e0\"}, \"request\": {\"reports\": [{\"users\": [{\"id\": \"236151992\", \"name\": \"Antony Anish\"}], \"id\": \"ec94b68e-4bae-4d62-a0dc-cb73d9f65ce1\", \"render\": false, \"activity_id\": \"22314991_1_28\", \"scoring_type\": \"partial\", \"type\": \"lastscore-by-item-by-user\"}], \"organisation_id\": 537, \"meta\": {\"sdk\": {\"version\": \"v0.3.13\", \"lang\": \"python\", \"lang_version\": \"3.12.14\", \"platform\": \"Linux\", \"platform_version\": \"6.1.188-233.385.amzn2023.x86_64\"}}}}",
+      "timeTaken": [
+        {
+          "studentId": "236151992",
+          "seconds": "149.163255"
+        }
+      ],
+      "questions": [
+        {
+          "id": "594565",
+          "title": "Effect of migration patterns in Brazil",
+          "learnosityItemReference": "VH929906",
+          "sharedStimulus": null,
+          "relatedSkills": [
+            {
+              "title": "Topic",
+              "children": [
+                {
+                  "label": "2.2",
+                  "description": "2.2: Consequences of Population Distribution",
+                  "category": "2: Population Migration Patterns and Process"
+                }
+              ]
+            },
+            {
+              "title": "Skill",
+              "children": [
+                {
+                  "label": "Skill 2.C",
+                  "description": "Skill 2.C: Explain a likely outcome in a geographic scenario using geographic concepts, processes, models, or theories.",
+                  "category": "Skill Category 2: Analyze geographic patterns, relationships, and outcomes in applied contexts."
+                }
+              ]
+            }
+          ],
+          "relatedOtherTags": [
+            {
+              "label": "2.2",
+              "title": "Consequences of Population Distribution",
+              "description": "2.2: Consequences of Population Distribution",
+              "category": "Topic"
+            }
+          ]
+        },
+        {
+          "id": "594593",
+          "title": "Physiological density and carrying capacity",
+          "learnosityItemReference": "VH932892",
+          "sharedStimulus": null,
+          "relatedSkills": [
+            {
+              "title": "Topic",
+              "children": [
+                {
+                  "label": "2.2",
+                  "description": "2.2: Consequences of Population Distribution",
+                  "category": "2: Population Migration Patterns and Process"
+                }
+              ]
+            },
+            {
+              "title": "Skill",
+              "children": [
+                {
+                  "label": "Skill 2.C",
+                  "description": "Skill 2.C: Explain a likely outcome in a geographic scenario using geographic concepts, processes, models, or theories.",
+                  "category": "Skill Category 2: Analyze geographic patterns, relationships, and outcomes in applied contexts."
+                }
+              ]
+            }
+          ],
+          "relatedOtherTags": [
+            {
+              "label": "2.2",
+              "title": "Consequences of Population Distribution",
+              "description": "2.2: Consequences of Population Distribution",
+              "category": "Topic"
+            }
+          ]
+        },
+        {
+          "id": "594595",
+          "title": "Urban Population in MDCs",
+          "learnosityItemReference": "VH911513",
+          "sharedStimulus": null,
+          "relatedSkills": [
+            {
+              "title": "Topic",
+              "children": [
+                {
+                  "label": "2.2",
+                  "description": "2.2: Consequences of Population Distribution",
+                  "category": "2: Population Migration Patterns and Process"
+                }
+              ]
+            },
+            {
+              "title": "Skill",
+              "children": [
+                {
+                  "label": "Skill 2.C",
+                  "description": "Skill 2.C: Explain a likely outcome in a geographic scenario using geographic concepts, processes, models, or theories.",
+                  "category": "Skill Category 2: Analyze geographic patterns, relationships, and outcomes in applied contexts."
+                }
+              ]
+            }
+          ],
+          "relatedOtherTags": [
+            {
+              "label": "2.2",
+              "title": "Consequences of Population Distribution",
+              "description": "2.2: Consequences of Population Distribution",
+              "category": "Topic"
+            }
+          ]
+        }
+      ],
+      "categories": "['Topic']"
+    }
+  }
+}

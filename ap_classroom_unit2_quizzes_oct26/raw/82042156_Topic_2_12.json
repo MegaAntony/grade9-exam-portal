@@ -1,0 +1,130 @@
+{
+  "data": {
+    "assignment": {
+      "id": "82042156",
+      "title": "Effects of Migration Quiz",
+      "status": "opened",
+      "scoreDisplay": "full",
+      "studentResponses": "{\"236151992\": {\"VH926863\": [\"D\"], \"questions\": {\"c048d5c028c8373bcec145126ea57d99\": [\"D\"], \"255e3bd935427c118e016c6a05c98333\": [\"D\"], \"50c97115e21a6f1bc615799ad9d4b8f1\": [\"B\"]}, \"VH923072\": [\"D\"], \"VH926921\": [\"B\"]}}",
+      "results": "{\"security\": {\"consumer_key\": \"gHpBBB2lEYn2EDoS\", \"domain\": \"apclassroom.collegeboard.org\", \"timestamp\": \"20261027-0449\", \"signature\": \"$02$3333b4bc8efb91a6104488d5c849bf2e10c229786143e5b3e437472fd4af989e\"}, \"request\": {\"reports\": [{\"users\": [{\"id\": \"236151992\", \"name\": \"Antony Anish\"}], \"id\": \"df9b493d-4d26-4598-8793-45c7af0d5968\", \"render\": false, \"activities\": [{\"id\": \"22314890_1_28\", \"name\": \"Effects of Migration Quiz\"}], \"scoring_type\": \"partial\", \"ui\": \"numeric\", \"type\": \"lastscore-by-activity-by-user\"}], \"organisation_id\": 537, \"meta\": {\"sdk\": {\"version\": \"v0.3.13\", \"lang\": \"python\", \"lang_version\": \"3.12.14\", \"platform\": \"Linux\", \"platform_version\": \"6.1.188-233.385.amzn2023.x86_64\"}}}}",
+      "resultsByItem": "{\"security\": {\"consumer_key\": \"gHpBBB2lEYn2EDoS\", \"domain\": \"apclassroom.collegeboard.org\", \"timestamp\": \"20261027-0449\", \"signature\": \"$02$294b73b27f55fdd9689b6f0b1d2f57a3fac57bb99c153ead4920ec180f836fbb\"}, \"request\": {\"reports\": [{\"users\": [{\"id\": \"236151992\", \"name\": \"Antony Anish\"}], \"id\": \"9e389eb6-6f78-4252-9095-607dd10998f3\", \"render\": false, \"activity_id\": \"22314890_1_28\", \"scoring_type\": \"partial\", \"type\": \"lastscore-by-item-by-user\"}], \"organisation_id\": 537, \"meta\": {\"sdk\": {\"version\": \"v0.3.13\", \"lang\": \"python\", \"lang_version\": \"3.12.14\", \"platform\": \"Linux\", \"platform_version\": \"6.1.188-233.385.amzn2023.x86_64\"}}}}",
+      "timeTaken": [
+        {
+          "studentId": "236151992",
+          "seconds": "290.083036"
+        }
+      ],
+      "questions": [
+        {
+          "id": "594559",
+          "title": "Impacts of Chinese immigration",
+          "learnosityItemReference": "VH926863",
+          "sharedStimulus": null,
+          "relatedSkills": [
+            {
+              "title": "Topic",
+              "children": [
+                {
+                  "label": "2.12",
+                  "description": "2.12: Effects of Migration",
+                  "category": "2: Population Migration Patterns and Process"
+                }
+              ]
+            },
+            {
+              "title": "Skill",
+              "children": [
+                {
+                  "label": "Skill 2.B",
+                  "description": "Skill 2.B: Explain spatial relationships in a specified context or region of the world, using geographic concepts, processes, models, or theories.",
+                  "category": "Skill Category 2: Analyze geographic patterns, relationships, and outcomes in applied contexts."
+                }
+              ]
+            }
+          ],
+          "relatedOtherTags": [
+            {
+              "label": "2.12",
+              "title": "Effects of Migration",
+              "description": "2.12: Effects of Migration",
+              "category": "Topic"
+            }
+          ]
+        },
+        {
+          "id": "594576",
+          "title": "Imported labor from South Asia",
+          "learnosityItemReference": "VH923072",
+          "sharedStimulus": null,
+          "relatedSkills": [
+            {
+              "title": "Topic",
+              "children": [
+                {
+                  "label": "2.12",
+                  "description": "2.12: Effects of Migration",
+                  "category": "2: Population Migration Patterns and Process"
+                }
+              ]
+            },
+            {
+              "title": "Skill",
+              "children": [
+                {
+                  "label": "Skill 2.B",
+                  "description": "Skill 2.B: Explain spatial relationships in a specified context or region of the world, using geographic concepts, processes, models, or theories.",
+                  "category": "Skill Category 2: Analyze geographic patterns, relationships, and outcomes in applied contexts."
+                }
+              ]
+            }
+          ],
+          "relatedOtherTags": [
+            {
+              "label": "2.12",
+              "title": "Effects of Migration",
+              "description": "2.12: Effects of Migration",
+              "category": "Topic"
+            }
+          ]
+        },
+        {
+          "id": "594561",
+          "title": "Religious change in United States",
+          "learnosityItemReference": "VH926921",
+          "sharedStimulus": null,
+          "relatedSkills": [
+            {
+              "title": "Topic",
+              "children": [
+                {
+                  "label": "2.12",
+                  "description": "2.12: Effects of Migration",
+                  "category": "2: Population Migration Patterns and Process"
+                }
+              ]
+            },
+            {
+              "title": "Skill",
+              "children": [
+                {
+                  "label": "Skill 2.B",
+                  "description": "Skill 2.B: Explain spatial relationships in a specified context or region of the world, using geographic concepts, processes, models, or theories.",
+                  "category": "Skill Category 2: Analyze geographic patterns, relationships, and outcomes in applied contexts."
+                }
+              ]
+            }
+          ],
+          "relatedOtherTags": [
+            {
+              "label": "2.12",
+              "title": "Effects of Migration",
+              "description": "2.12: Effects of Migration",
+              "category": "Topic"
+            }
+          ]
+        }
+      ],
+      "categories": "['Topic', 'Skill']"
+    }
+  }
+}

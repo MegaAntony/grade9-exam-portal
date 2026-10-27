@@ -1,0 +1,130 @@
+{
+  "data": {
+    "assignment": {
+      "id": "82042305",
+      "title": "The Demographic Transition Model Quiz (MCQs)",
+      "status": "opened",
+      "scoreDisplay": "full",
+      "studentResponses": "{\"236151992\": {\"VH932929\": [\"E\"], \"questions\": {\"6ab4c4d1215b507f3570b6024a483e40\": [\"E\"], \"26ae7cc19d51509bb3660ceffe5adc27\": [\"A\"], \"a6d14bf0675f7b86e1b4f866f8d468f8\": [\"E\"]}, \"VH926464\": [\"A\"], \"VH926218\": [\"E\"]}}",
+      "results": "{\"security\": {\"consumer_key\": \"gHpBBB2lEYn2EDoS\", \"domain\": \"apclassroom.collegeboard.org\", \"timestamp\": \"20261027-0449\", \"signature\": \"$02$a9e1f3ae17ffd9bf7f22c076b04abea73cf6ff744764397e667d42b1d8d99880\"}, \"request\": {\"reports\": [{\"users\": [{\"id\": \"236151992\", \"name\": \"Antony Anish\"}], \"id\": \"a4c67169-e9bc-479c-90d7-12038f8eb7a7\", \"render\": false, \"activities\": [{\"id\": \"22314965_1_28\", \"name\": \"The Demographic Transition Model Quiz (MCQs)\"}], \"scoring_type\": \"partial\", \"ui\": \"numeric\", \"type\": \"lastscore-by-activity-by-user\"}], \"organisation_id\": 537, \"meta\": {\"sdk\": {\"version\": \"v0.3.13\", \"lang\": \"python\", \"lang_version\": \"3.12.14\", \"platform\": \"Linux\", \"platform_version\": \"6.1.188-233.385.amzn2023.x86_64\"}}}}",
+      "resultsByItem": "{\"security\": {\"consumer_key\": \"gHpBBB2lEYn2EDoS\", \"domain\": \"apclassroom.collegeboard.org\", \"timestamp\": \"20261027-0449\", \"signature\": \"$02$83360a65f26201fb47f95f293b595784ddd537db9aa62d0ee4fe258b368b6001\"}, \"request\": {\"reports\": [{\"users\": [{\"id\": \"236151992\", \"name\": \"Antony Anish\"}], \"id\": \"bce2fa5d-a115-4b7f-9925-9be2aa104e57\", \"render\": false, \"activity_id\": \"22314965_1_28\", \"scoring_type\": \"partial\", \"type\": \"lastscore-by-item-by-user\"}], \"organisation_id\": 537, \"meta\": {\"sdk\": {\"version\": \"v0.3.13\", \"lang\": \"python\", \"lang_version\": \"3.12.14\", \"platform\": \"Linux\", \"platform_version\": \"6.1.188-233.385.amzn2023.x86_64\"}}}}",
+      "timeTaken": [
+        {
+          "studentId": "236151992",
+          "seconds": "195.417458"
+        }
+      ],
+      "questions": [
+        {
+          "id": "594535",
+          "title": "Challenge of demographic transition stage five",
+          "learnosityItemReference": "VH932929",
+          "sharedStimulus": null,
+          "relatedSkills": [
+            {
+              "title": "Topic",
+              "children": [
+                {
+                  "label": "2.5",
+                  "description": "2.5: The Demographic Transition Model",
+                  "category": "2: Population Migration Patterns and Process"
+                }
+              ]
+            },
+            {
+              "title": "Skill",
+              "children": [
+                {
+                  "label": "Skill 3.B",
+                  "description": "Skill 3.B: Describe spatial patterns presented in maps and in quantitative and geospatial data.",
+                  "category": "Skill Category 3: Analyze and interpret quantitative geographic data represented in maps, tables, charts, graphs, satellite images, and infographics."
+                }
+              ]
+            }
+          ],
+          "relatedOtherTags": [
+            {
+              "label": "2.5",
+              "title": "The Demographic Transition Model",
+              "description": "2.5: The Demographic Transition Model",
+              "category": "Topic"
+            }
+          ]
+        },
+        {
+          "id": "594541",
+          "title": "Country in stage three of demographic transition",
+          "learnosityItemReference": "VH926464",
+          "sharedStimulus": null,
+          "relatedSkills": [
+            {
+              "title": "Topic",
+              "children": [
+                {
+                  "label": "2.5",
+                  "description": "2.5: The Demographic Transition Model",
+                  "category": "2: Population Migration Patterns and Process"
+                }
+              ]
+            },
+            {
+              "title": "Skill",
+              "children": [
+                {
+                  "label": "Skill 3.B",
+                  "description": "Skill 3.B: Describe spatial patterns presented in maps and in quantitative and geospatial data.",
+                  "category": "Skill Category 3: Analyze and interpret quantitative geographic data represented in maps, tables, charts, graphs, satellite images, and infographics."
+                }
+              ]
+            }
+          ],
+          "relatedOtherTags": [
+            {
+              "label": "2.5",
+              "title": "The Demographic Transition Model",
+              "description": "2.5: The Demographic Transition Model",
+              "category": "Topic"
+            }
+          ]
+        },
+        {
+          "id": "594539",
+          "title": "Demographic transition model Stages 4 and 5",
+          "learnosityItemReference": "VH926218",
+          "sharedStimulus": null,
+          "relatedSkills": [
+            {
+              "title": "Topic",
+              "children": [
+                {
+                  "label": "2.5",
+                  "description": "2.5: The Demographic Transition Model",
+                  "category": "2: Population Migration Patterns and Process"
+                }
+              ]
+            },
+            {
+              "title": "Skill",
+              "children": [
+                {
+                  "label": "Skill 3.B",
+                  "description": "Skill 3.B: Describe spatial patterns presented in maps and in quantitative and geospatial data.",
+                  "category": "Skill Category 3: Analyze and interpret quantitative geographic data represented in maps, tables, charts, graphs, satellite images, and infographics."
+                }
+              ]
+            }
+          ],
+          "relatedOtherTags": [
+            {
+              "label": "2.5",
+              "title": "The Demographic Transition Model",
+              "description": "2.5: The Demographic Transition Model",
+              "category": "Topic"
+            }
+          ]
+        }
+      ],
+      "categories": "['Topic']"
+    }
+  }
+}

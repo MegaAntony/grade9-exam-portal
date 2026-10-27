@@ -1,0 +1,130 @@
+{
+  "data": {
+    "assignment": {
+      "id": "82042256",
+      "title": "Malthusian Theory Quiz",
+      "status": "opened",
+      "scoreDisplay": "full",
+      "studentResponses": "{\"236151992\": {\"VH926795\": [\"A\"], \"questions\": {\"760b0c770dd05bcb49384f4b361a4b89\": [\"A\"], \"3ec2fecd9c554c50a40ec9c8815b1157\": [\"C\"], \"e2ec4e771704f48618544782c07cbfe6\": [\"C\"]}, \"VH926684\": [\"C\"], \"VH926479\": [\"C\"]}}",
+      "results": "{\"security\": {\"consumer_key\": \"gHpBBB2lEYn2EDoS\", \"domain\": \"apclassroom.collegeboard.org\", \"timestamp\": \"20261027-0449\", \"signature\": \"$02$6508a1c175dd44bf65eadd5b5dd73f1baf0e2bd8ea66b5689140283e8e3c3107\"}, \"request\": {\"reports\": [{\"users\": [{\"id\": \"236151992\", \"name\": \"Antony Anish\"}], \"id\": \"2f1c70d3-e8ce-4319-9c60-d552107a76da\", \"render\": false, \"activities\": [{\"id\": \"22314954_1_28\", \"name\": \"Malthusian Theory Quiz\"}], \"scoring_type\": \"partial\", \"ui\": \"numeric\", \"type\": \"lastscore-by-activity-by-user\"}], \"organisation_id\": 537, \"meta\": {\"sdk\": {\"version\": \"v0.3.13\", \"lang\": \"python\", \"lang_version\": \"3.12.14\", \"platform\": \"Linux\", \"platform_version\": \"6.1.188-233.385.amzn2023.x86_64\"}}}}",
+      "resultsByItem": "{\"security\": {\"consumer_key\": \"gHpBBB2lEYn2EDoS\", \"domain\": \"apclassroom.collegeboard.org\", \"timestamp\": \"20261027-0449\", \"signature\": \"$02$051f8304c433f41947116e87aa2210a15823c9a0f64318fb035297268f09a788\"}, \"request\": {\"reports\": [{\"users\": [{\"id\": \"236151992\", \"name\": \"Antony Anish\"}], \"id\": \"7cd77771-a370-43de-8e7b-07eadc7735d6\", \"render\": false, \"activity_id\": \"22314954_1_28\", \"scoring_type\": \"partial\", \"type\": \"lastscore-by-item-by-user\"}], \"organisation_id\": 537, \"meta\": {\"sdk\": {\"version\": \"v0.3.13\", \"lang\": \"python\", \"lang_version\": \"3.12.14\", \"platform\": \"Linux\", \"platform_version\": \"6.1.188-233.385.amzn2023.x86_64\"}}}}",
+      "timeTaken": [
+        {
+          "studentId": "236151992",
+          "seconds": "246.205965"
+        }
+      ],
+      "questions": [
+        {
+          "id": "594555",
+          "title": "Explanation of Malthus theory",
+          "learnosityItemReference": "VH926795",
+          "sharedStimulus": null,
+          "relatedSkills": [
+            {
+              "title": "Topic",
+              "children": [
+                {
+                  "label": "2.6",
+                  "description": "2.6: Malthusian Theory",
+                  "category": "2: Population Migration Patterns and Process"
+                }
+              ]
+            },
+            {
+              "title": "Skill",
+              "children": [
+                {
+                  "label": "Skill 2.B",
+                  "description": "Skill 2.B: Explain spatial relationships in a specified context or region of the world, using geographic concepts, processes, models, or theories.",
+                  "category": "Skill Category 2: Analyze geographic patterns, relationships, and outcomes in applied contexts."
+                }
+              ]
+            }
+          ],
+          "relatedOtherTags": [
+            {
+              "label": "2.6",
+              "title": "Malthusian Theory",
+              "description": "2.6: Malthusian Theory",
+              "category": "Topic"
+            }
+          ]
+        },
+        {
+          "id": "594547",
+          "title": "Malthus and Industrial Revolution",
+          "learnosityItemReference": "VH926684",
+          "sharedStimulus": null,
+          "relatedSkills": [
+            {
+              "title": "Topic",
+              "children": [
+                {
+                  "label": "2.6",
+                  "description": "2.6: Malthusian Theory",
+                  "category": "2: Population Migration Patterns and Process"
+                }
+              ]
+            },
+            {
+              "title": "Skill",
+              "children": [
+                {
+                  "label": "Skill 2.B",
+                  "description": "Skill 2.B: Explain spatial relationships in a specified context or region of the world, using geographic concepts, processes, models, or theories.",
+                  "category": "Skill Category 2: Analyze geographic patterns, relationships, and outcomes in applied contexts."
+                }
+              ]
+            }
+          ],
+          "relatedOtherTags": [
+            {
+              "label": "2.6",
+              "title": "Malthusian Theory",
+              "description": "2.6: Malthusian Theory",
+              "category": "Topic"
+            }
+          ]
+        },
+        {
+          "id": "594567",
+          "title": "Neo-Malthusian perspective",
+          "learnosityItemReference": "VH926479",
+          "sharedStimulus": null,
+          "relatedSkills": [
+            {
+              "title": "Topic",
+              "children": [
+                {
+                  "label": "2.6",
+                  "description": "2.6: Malthusian Theory",
+                  "category": "2: Population Migration Patterns and Process"
+                }
+              ]
+            },
+            {
+              "title": "Skill",
+              "children": [
+                {
+                  "label": "Skill 2.B",
+                  "description": "Skill 2.B: Explain spatial relationships in a specified context or region of the world, using geographic concepts, processes, models, or theories.",
+                  "category": "Skill Category 2: Analyze geographic patterns, relationships, and outcomes in applied contexts."
+                }
+              ]
+            }
+          ],
+          "relatedOtherTags": [
+            {
+              "label": "2.6",
+              "title": "Malthusian Theory",
+              "description": "2.6: Malthusian Theory",
+              "category": "Topic"
+            }
+          ]
+        }
+      ],
+      "categories": "['Topic']"
+    }
+  }
+}
