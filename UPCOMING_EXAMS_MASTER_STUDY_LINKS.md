@@ -87,31 +87,43 @@
 * **Upcoming Assessment:** **Unit 2 MCQ Summative Exam** (Block Day)
 * **Scheduled Date:** **Wednesday/Thursday, October 28–29, 2026**
 * **Master Strategy Guide**:
-  * 🚨 **[Unit 2 MCQ Trap Alerts & Master Exam Strategy Guide (Markdown)](file:///Volumes/Backup/Antony/HighSchool/Grade9/000-Exam/AP_HUMAN_UNIT2_MCQ_TRAP_ALERTS_AND_EXAM_STRATEGY.md)** — **Critical Study Resource covering all 9 Traps across Topics 2.2, 2.4, and 2.5**
+  * 🚨 **[Unit 2 MCQ Trap Alerts & Master Exam Strategy Guide (Markdown)](file:///Volumes/Backup/Antony/HighSchool/Grade9/000-Exam/AP_HUMAN_UNIT2_MCQ_TRAP_ALERTS_AND_EXAM_STRATEGY.md)** — **Critical Study Resource covering all 12 Traps across Topics 2.2, 2.4, 2.5, and 2.6**
 * **Recent Formatives**:
+  * ⚡ **[Malthusian Theory Quiz (Topic 2.6)](file:///Volumes/Backup/Antony/HighSchool/Grade9/000-Exam/ap_human_malthus_quiz_review.html)** (Assignment ID: `82042256`) — **Score: 2/3 (Targeted Error Drill & AP Trap Alerts Available)**
   * 🚨 **[The Demographic Transition Model Quiz (Topic 2.5)](file:///Volumes/Backup/Antony/HighSchool/Grade9/000-Exam/ap_human_dtm_quiz_review.html)** (Assignment ID: `82042305`) — **Score: 1/3 (Targeted Error Drill & AP Trap Alerts Available)**
   * 🚨 **[Population Dynamics Quiz (Topic 2.4)](file:///Volumes/Backup/Antony/HighSchool/Grade9/000-Exam/ap_human_population_dynamics_quiz_review.html)** (Assignment ID: `82042381`) — **Score: 1/3 (Targeted Error Drill & AP Trap Alerts Available)**
   * ✅ **[Consequences of Population Distribution Quiz (Topic 2.2)](file:///Volumes/Backup/Antony/HighSchool/Grade9/000-Exam/ap_human_consequences_quiz_review.html)** (Assignment ID: `82042398`) — **100% Mastery (3/3 + AP Trap Alerts)**
 
 ### Verified Live & Local Study Links:
 1. 🚨 **[Unit 2 MCQ Trap Alerts & Master Exam Strategy Guide (Markdown)](file:///Volumes/Backup/Antony/HighSchool/Grade9/000-Exam/AP_HUMAN_UNIT2_MCQ_TRAP_ALERTS_AND_EXAM_STRATEGY.md)**
-   * Complete dissection of all 9 College Board distractor traps: Spatial Disparities vs. Uniform Growth, Density Denominators, Sector Misattribution, "LDC Qualifier" Wording Trap, Urban Growth Rate vs. Urbanization Level, Total Population vs. High TFR, Youth vs. Elder Dependency, One-Child Policy DTM Distortion, and Theoretical Stage 5 Label vs. Dominant Degenerative Mortality.
-   * Antony's 6-step MCQ Disqualification Protocol for Wednesday's test.
-2. 🚨 **[DTM Quiz Interactive Error Analysis App (Local)](file:///Volumes/Backup/Antony/HighSchool/Grade9/000-Exam/ap_human_dtm_quiz_review.html)**
+   * Complete dissection of all 12 College Board distractor traps: Spatial Disparities vs. Uniform Growth, Density Denominators, Sector Misattribution, "LDC Qualifier" Wording Trap, Urban Growth Rate vs. Urbanization Level, Total Population vs. High TFR, Youth vs. Elder Dependency, One-Child Policy DTM Distortion, Theoretical Stage 5 Label vs. Dominant Degenerative Mortality, Malthus vs. Boserup, Urbanization Demographic Refutation, and Neo-Malthusian Scope.
+   * Antony's 7-step MCQ Disqualification Protocol for Wednesday's test.
+2. ⚡ **[Malthusian Theory Interactive Error Analysis App (Local)](file:///Volumes/Backup/Antony/HighSchool/Grade9/000-Exam/ap_human_malthus_quiz_review.html)**
+   * Complete 3-question review of Malthus premises, Boserup counter-theories, and Neo-Malthusian resource models.
+   * Deep deconstruction of Question 2 (how factory urbanization reduced birth rates).
+3. 📘 **[Malthusian Theory Master Question Bank & Rationales (Markdown)](file:///Volumes/Backup/Antony/HighSchool/Grade9/000-Exam/AP_HUMAN_MALTHUS_QUIZ_MASTER_STUDY_GUIDE.md)**
+   * Item references (`VH926795`, `VH926684`, `VH926479`) with complete scoring notes and AP Trap Alerts.
+4. 🚨 **[DTM Quiz Interactive Error Analysis App (Local)](file:///Volumes/Backup/Antony/HighSchool/Grade9/000-Exam/ap_human_dtm_quiz_review.html)**
    * Complete 3-question review of Demographic Indicators table (Germany, Italy, Japan) and 5-stage DTM diagram.
    * Deep deconstruction of China (Stage 4) vs. Bolivia (Stage 3) and Epidemiological Transition degenerative mortality.
-3. 📘 **[DTM Quiz Master Question Bank & Rationales (Markdown)](file:///Volumes/Backup/Antony/HighSchool/Grade9/000-Exam/AP_HUMAN_DTM_QUIZ_MASTER_STUDY_GUIDE.md)**
+5. 📘 **[DTM Quiz Master Question Bank & Rationales (Markdown)](file:///Volumes/Backup/Antony/HighSchool/Grade9/000-Exam/AP_HUMAN_DTM_QUIZ_MASTER_STUDY_GUIDE.md)**
    * Item references (`VH932929`, `VH926464`, `VH926218`) with complete scoring notes and AP Trap Alerts.
-4. 🚨 **[Population Dynamics Interactive Error Analysis App (Local)](file:///Volumes/Backup/Antony/HighSchool/Grade9/000-Exam/ap_human_population_dynamics_quiz_review.html)**
+6. 🚨 **[Population Dynamics Interactive Error Analysis App (Local)](file:///Volumes/Backup/Antony/HighSchool/Grade9/000-Exam/ap_human_population_dynamics_quiz_review.html)**
    * Complete 3-question review of 4-Stage DTM graph, Metropolitan Area table (City A vs B), and 2000–2050 regional growth projections.
    * Prominent AP Trap Alert warning cards with pedagogical deconstruction for each question.
-5. 📘 **[Population Dynamics Master Question Bank & Rationales (Markdown)](file:///Volumes/Backup/Antony/HighSchool/Grade9/000-Exam/AP_HUMAN_POPULATION_DYNAMICS_QUIZ_MASTER_STUDY_GUIDE.md)**
+7. 📘 **[Population Dynamics Master Question Bank & Rationales (Markdown)](file:///Volumes/Backup/Antony/HighSchool/Grade9/000-Exam/AP_HUMAN_POPULATION_DYNAMICS_QUIZ_MASTER_STUDY_GUIDE.md)**
    * Item references (`VH911626`, `VH911869`, `VH917081`) with complete scoring notes and AP Trap Alerts.
-6. 🔥 **[Consequences of Population Distribution Interactive Review App (Local)](file:///Volumes/Backup/Antony/HighSchool/Grade9/000-Exam/ap_human_consequences_quiz_review.html)**
+8. 🔥 **[Consequences of Population Distribution Interactive Review App (Local)](file:///Volumes/Backup/Antony/HighSchool/Grade9/000-Exam/ap_human_consequences_quiz_review.html)**
    * Complete 3-question AP Classroom review with high-resolution proportional symbol Brazil map.
    * Full distractor rationales, AP Trap Alerts, and CED Skill 2.C explanations.
-7. 📘 **[Consequences Quiz Master Question Bank & Rationales (Markdown)](file:///Volumes/Backup/Antony/HighSchool/Grade9/000-Exam/AP_HUMAN_CONSEQUENCES_QUIZ_MASTER_STUDY_GUIDE.md)**
+9. 📘 **[Consequences Quiz Master Question Bank & Rationales (Markdown)](file:///Volumes/Backup/Antony/HighSchool/Grade9/000-Exam/AP_HUMAN_CONSEQUENCES_QUIZ_MASTER_STUDY_GUIDE.md)**
    * Full markdown transcript with College Board item references (`VH929906`, `VH932892`, `VH911513`) and AP Trap Alerts.
+10. 🎯 **[Unit 2 Master Study Center & 12-Topic Learning Portals (Local)](file:///Volumes/Backup/Antony/HighSchool/Grade9/HumanGeography/StudyMaterials/ExamsMaterials/02-Unit2-Population-and-Migration/README.md)**
+   * Covers all CED Topics 2.1 through 2.12 with quantitative labs, DTM models, and flashcards.
+11. 🧠 **[Unit 2 Interactive Spaced-Repetition Vocab App (Local)](file:///Volumes/Backup/Antony/HighSchool/Grade9/HumanGeography/StudyMaterials/ExamsMaterials/02-Unit2-Population-and-Migration/01_Vocabulary_Mastery/Unit2_Vocab_Study.html)**
+   * 73 AP Human Geography key terms with ELI9 definitions and scenario drills.
+12. 📊 **[Unit 2 AP Classroom 36-Question Progress Check Review App (Local)](file:///Volumes/Backup/Antony/HighSchool/Grade9/HumanGeography/collegeBoard/unit2/ap_classroom_unit2_mcq_review.html)**
+   * Full 36-question Progress Check with Learnosity stimulus graphics and data tables.
 8. 🎯 **[Unit 2 Master Study Center & 12-Topic Learning Portals (Local)](file:///Volumes/Backup/Antony/HighSchool/Grade9/HumanGeography/StudyMaterials/ExamsMaterials/02-Unit2-Population-and-Migration/README.md)**
    * Covers all CED Topics 2.1 through 2.12 with quantitative labs, DTM models, and flashcards.
 9. 🧠 **[Unit 2 Interactive Spaced-Repetition Vocab App (Local)](file:///Volumes/Backup/Antony/HighSchool/Grade9/HumanGeography/StudyMaterials/ExamsMaterials/02-Unit2-Population-and-Migration/01_Vocabulary_Mastery/Unit2_Vocab_Study.html)**
