@@ -6,6 +6,10 @@
 2. Topic 2.4: Population Dynamics Quiz (`Assignment ID: 82042381` | Score: **1/3, 33%**)
 3. Topic 2.5: The Demographic Transition Model Quiz (`Assignment ID: 82042305` | Score: **1/3, 33%**)
 4. Topic 2.6: Malthusian Theory Quiz (`Assignment ID: 82042256` | Score: **2/3, 67%**)
+5. Topic 2.7: Population Policies Quiz (`Assignment ID: 82042236` | Score: **3/3, 100%**)
+6. Topic 2.9: Aging Populations Quiz (`Assignment ID: 82042213` | Score: **3/3, 100%**)
+7. Topic 2.10: Causes of Migration Quiz (`Assignment ID: 82042191` | Score: **3/3, 100%**)
+8. Topic 2.11: Forced and Voluntary Migration Quiz (`Assignment ID: 82042178` | Score: **2/3, 67%**)
 
 ---
 
@@ -27,10 +31,14 @@ The College Board AP Human Geography exam is intentionally designed not just to 
 | **10** | **2.6** | `VH926795` | **Malthus vs. Boserup Possibilist Trap** | Claims population growth increases knowledge and food production | **Boserup** theorized innovation expands food; **Malthus** claimed food is strictly arithmetic and finite. |
 | **11** | **2.6** | `VH926684` | **Farm Consolidation vs. Urban Fertility Transition** | Claims larger farms defeated Malthus; ignores demographic transition | Urbanization lowered birth rates (**DTM Stage 3**), refuting Malthus on the **population demand side**. |
 | **12** | **2.6** | `VH926479` | **Neo-Malthusian Scope Trap (Food vs. Resources)** | Applies Neo-Malthusianism to aging or contracting populations | Neo-Malthusianism applies strictly to **rapid Stage 2 NIR** depleting food, water, energy, and soil. |
+| **13** | **2.7** | `VH926693` | **Intended Goal vs. Unintended Consequence** | Confuses the intended purpose of the One-Child Policy with side-effects | Lowering birth rate was the **intended goal**; the 4-2-1 elder care crisis and skewed sex ratio were **unintended**. |
+| **14** | **2.9** | `VR009470` | **Aging Population Sex Ratio & Fiscal Burden** | Assumes aging societies skew male or build more schools | Women outlive men (skews **female** $\ge 65$); shrinking workforce strains **pensions/healthcare**. |
+| **15** | **2.10** | `VH929891` | **Push Factor vs. Pull Factor Wording Trap** | Selects war/conflict in origin when question explicitly asks for pull factor | War in origin = **PUSH factor**. Jobs/growth in destination = **PULL factor**. |
+| **16** | **2.11** | `VH930370` | **Chain Migration vs. Step Migration Trap** | Assumes any refugee movement across borders involves family networks | Moving in sequential stages (Italy $\rightarrow$ Germany $\rightarrow$ Sweden) is **STEP MIGRATION**. |
 
 ---
 
-## 🔍 Forensic Breakdown of the 12 AP Trap Alerts
+## 🔍 Forensic Breakdown of the 16 AP Trap Alerts
 
 ---
 
@@ -369,6 +377,91 @@ The College Board AP Human Geography exam is intentionally designed not just to 
 
 ---
 
+### Trap Alert 13: Intended Primary Goal vs. Unintended Consequence Trap
+* **Assignment**: Topic 2.7 Population Policies Quiz (`82042236`)
+* **Reference**: `VH926693` | **Skill**: `Skill 2.C` (Explain geographic outcomes)
+* **Antony's Performance**: Selected **(C)** — **CORRECT** ✓
+
+#### The Question & Choices:
+> **Stem**: Which of the following explains an unintended consequence of China’s antinatalist one-child policy?
+> * (A) A dramatic reduction of the birth rate and a decline of the rate of natural increase rate, resulting in lower population growth.
+> * (B) Agricultural families were forced to relocate to the nearest city to search for employment, resulting in increased urban population.
+> * **✓ (C) A projected shortage of working-age people to care for the rising elderly population, resulting in an increase in the cost of living for older people.**
+> * (D) Decreased spending on childhood expenses, such as education and nursery supplies results in a drop in domestic economic productivity.
+> * (E) A decreased emphasis on education due to the decreasing numbers of school-age children results in a loss of international competitiveness.
+
+> [!WARNING]
+> **AP Trap Alert on Question 13 (Intended Goal vs. Unintended Consequence Trap)**:
+> * **The Trap**: Distractor (A) describes *"a dramatic reduction of the birth rate and natural increase rate"*. This statement is true, but it was the **INTENDED GOAL**, not an *unintended consequence*!
+> * **The Reality**: The famous unintended consequences of China's One-Child Policy are the **4-2-1 elder dependency crisis** (one child supporting two parents and four grandparents) and a **severely skewed sex ratio** (surplus males due to cultural son preference).
+
+---
+
+### Trap Alert 14: Aging Population Sex Ratio & Fiscal Burden Trap
+* **Assignment**: Topic 2.9 Aging Populations Quiz (`82042213`)
+* **Reference**: `VR009470` & `VH926786` | **Skill**: `Skill 2.C` (Explain geographic outcomes)
+* **Antony's Performance**: Selected **(C)** & **(C)** — **CORRECT** ✓
+
+#### The Question & Choices:
+> **Stem**: Which of the following describes a concern for a country with an aging population?
+> * (A) As a country’s population ages, the life expectancy for the younger population of the country decreases and healthcare costs decline.
+> * (B) As a country’s population ages, the infant mortality rate decreases and there is an increased need for daycare centers.
+> * **✓ (C) As the proportion of older people in the country increases, fewer young workers are available to contribute tax revenues to support programs that provide services to the older population.**
+> * (D) As the proportion of older people in the country increases, the sex ratio becomes disproportionally skewed toward males.
+> * (E) As the proportion of older people increases, the total population decreases because older people do not have children.
+
+> [!WARNING]
+> **AP Trap Alert on Question 14 (Aging Sex Ratio & Fiscal Burden Trap)**:
+> * **The Trap**: Distractor (D) claims the sex ratio skews toward *males*.
+> * **The Reality**: Females biologically outlive males in almost all societies. Aging populations skew heavily **female** in older cohorts ($\ge 65$). The critical problem is the **support ratio**: shrinking numbers of taxpaying workers must fund escalating defined-benefit pensions and healthcare costs.
+
+---
+
+### Trap Alert 15: Push Factor vs. Pull Factor Wording Trap
+* **Assignment**: Topic 2.10 Causes of Migration Quiz (`82042191`)
+* **Reference**: `VH929891` | **Skill**: `Skill 2.C` (Explain concepts in scenario)
+* **Antony's Performance**: Selected **(E)** — **CORRECT** ✓
+
+#### The Question & Choices:
+> **Stem**: In 2018, a large number of migrants from Afghanistan and Iraq applied for asylum in the European Union. Which of the following is a pull factor that explains this migration?
+> * (A) A high rate of natural increase in the Middle East, leading to overpopulation
+> * (B) Armed conflict, driving many people from their home regions in the Middle East
+> * (C) Drought and food shortages in the Middle East, leading many people to search for food security
+> * (D) Immigration reforms and fenced borders around Europe, controlling the flow of migrant workers
+> * **✓ (E) Economic growth and employment opportunities in Europe, attracting immigrant workers**
+
+> [!WARNING]
+> **AP Trap Alert on Question 15 (Push Factor vs. Pull Factor Wording Trap)**:
+> * **The Trap**: Distractor (B) states *"Armed conflict, driving many people from their home regions in the Middle East"*. War in Iraq/Afghanistan is factually why people leave, but it is a **PUSH FACTOR** operating at origin!
+> * **The Reality**: The question explicitly asks for a **PULL FACTOR** operating at destination. Only Option (E) describes an attraction factor: jobs and economic opportunity in Europe.
+
+---
+
+### Trap Alert 16: Chain Migration vs. Step Migration Trap
+* **Assignment**: Topic 2.11 Forced and Voluntary Migration Quiz (`82042178`)
+* **Reference**: `VH930370` | **Skill**: `Skill 2.C` (Explain concepts in scenario)
+* **Antony's Performance**: Selected **(A)** ❌ | Official Correct: **(D)** ✓
+
+#### The Question & Choices:
+> **Stem**: A refugee enters the European Union in Italy and is temporarily housed in Germany. He is then granted asylum and is permanently settled in Sweden. Which of the following describes this type of migration that is facilitated by the European Union’s open border policies?
+> * ❌ (A) Chain migration within the refugee’s family and social network *(Antony's choice)*
+> * (B) Guest worker migration based upon the free movement of labor
+> * (C) As an internally displaced person within a single state
+> * **✓ (D) Step migration across member states to a final destination** *(Official Correct Answer)*
+> * (E) As a rural-to-urban migrant seeking employment opportunities
+
+> [!WARNING]
+> **AP Trap Alert on Question 16 (Chain Migration vs. Step Migration Trap)**:
+> * **Why Antony and Many AP Students Fall Into This**: Students often associate refugees with family reunification networks and pick (A). However, the scenario does not mention relatives or family sponsorship.
+> * **The Reality**:
+>   * **Step Migration (Ravenstein)**: Long-distance movement that occurs in a series of shorter stages or stops (Italy $\rightarrow$ Germany $\rightarrow$ Sweden) toward a final destination.
+>   * **Chain Migration**: Relocating to a specific place because relatives or same-nationality peers migrated there previously.
+> * **Exam Day Rule**:
+>   * Moving through intermediate stops (Point A $\rightarrow$ Point B $\rightarrow$ Point C) = **STEP MIGRATION**
+>   * Following family members / ethnic networks = **CHAIN MIGRATION**
+
+---
+
 ## 🧭 Comparative AP Exam Decision Matrix
 
 When confronting multiple-choice questions on Unit 2, run each candidate choice through this rapid disqualification filter:
@@ -395,14 +488,18 @@ When confronting multiple-choice questions on Unit 2, run each candidate choice 
      +--> Does it attribute expanded food innovation to Malthus?        +--> Does it apply Neo-Malthus to low NIR/aging nations?
      |    🛑 DISQUALIFY (Innovation = BOSERUP; Malthus is arithmetic!)   |    🛑 DISQUALIFY (Neo-Malthusianism requires high Stage 2 NIR!)
      |                                                                   |
-     +--> Does it claim larger farm size defeated Malthus?
-          🛑 DISQUALIFY (URBANIZATION lowering birth rates
-          and DTM Stage 3 checked population growth!)
+     +--> Does it claim larger farm size defeated Malthus?               +--> Does it pick war in origin when asked for PULL factor?
+     |    🛑 DISQUALIFY (URBANIZATION lowering birth rates               |    🛑 DISQUALIFY (War in origin is a PUSH factor!)
+     |    and DTM Stage 3 checked population growth!)                    |
+     |                                                                   +--> Does it call multistep journey "Chain Migration"?
+     +--> Does it call lowering birth rate an unintended consequence?         🛑 DISQUALIFY (Following relatives = Chain;
+          🛑 DISQUALIFY (Lowering births was the INTENDED goal;               Stopping in Italy->Germany->Sweden = STEP!)
+          elder crisis and skewed sex ratio were unintended!)
 ```
 
 ---
 
-## 🎯 Antony's 7-Step MCQ Disqualification Protocol for Wednesday
+## 🎯 Antony's 9-Step MCQ Disqualification Protocol for Wednesday
 
 When sitting down for the Block Day Exam:
 
@@ -436,6 +533,13 @@ When sitting down for the Block Day Exam:
    * If a choice says population growth creates knowledge/innovation to grow food $\rightarrow$ that is **BOSERUP**, not Malthus.
    * If asked how the Industrial Revolution disproved Malthus $\rightarrow$ **Rural-to-urban factory migration caused birth rates to decline (DTM Stage 3)**, stopping exponential growth.
    * If a choice applies Neo-Malthusianism to countries with low NIR or population decline $\rightarrow$ **Disqualify immediately**; Neo-Malthus requires high NIR + resource crisis.
+
+8. **Step 8: Watch the Push vs. Pull Wording Trap**
+   * Circle the prompt word: is it asking for a **PUSH** factor (origin condition: war, drought, persecution) or a **PULL** factor (destination attraction: economic jobs, political freedom, stability)?
+
+9. **Step 9: Step Migration vs. Chain Migration**
+   * Moving through sequential intermediate stops (e.g., Italy $\rightarrow$ Germany $\rightarrow$ Sweden) is **STEP MIGRATION**.
+   * Following family members or ethnic peers who moved previously is **CHAIN MIGRATION**.
 
 ---
 *Created for Antony Anish • Period 6 AP Human Geography • Block Day Unit 2 MCQ Summative Preparation*
