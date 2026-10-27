@@ -10,6 +10,7 @@
 6. Topic 2.9: Aging Populations Quiz (`Assignment ID: 82042213` | Score: **3/3, 100%**)
 7. Topic 2.10: Causes of Migration Quiz (`Assignment ID: 82042191` | Score: **3/3, 100%**)
 8. Topic 2.11: Forced and Voluntary Migration Quiz (`Assignment ID: 82042178` | Score: **2/3, 67%**)
+9. Topic 2.12: Effects of Migration Quiz (`Assignment ID: 82042156` | Score: **3/3, 100%**)
 
 ---
 
@@ -35,6 +36,9 @@ The College Board AP Human Geography exam is intentionally designed not just to 
 | **14** | **2.9** | `VR009470` | **Aging Population Sex Ratio & Fiscal Burden** | Assumes aging societies skew male or build more schools | Women outlive men (skews **female** $\ge 65$); shrinking workforce strains **pensions/healthcare**. |
 | **15** | **2.10** | `VH929891` | **Push Factor vs. Pull Factor Wording Trap** | Selects war/conflict in origin when question explicitly asks for pull factor | War in origin = **PUSH factor**. Jobs/growth in destination = **PULL factor**. |
 | **16** | **2.11** | `VH930370` | **Chain Migration vs. Step Migration Trap** | Assumes any refugee movement across borders involves family networks | Moving in sequential stages (Italy $\rightarrow$ Germany $\rightarrow$ Sweden) is **STEP MIGRATION**. |
+| **17** | **2.12** | `VH926863` | **Enclave Enrichment vs. Lingua Franca / Political Power** | Claims immigrants made Cantonese a lingua franca or immediately took power | Enclaves enrich **cultural landscape/diversity**; English remains the trade lingua franca. |
+| **18** | **2.12** | `VH923072` | **Gulf Guest Worker Circularity vs. Permanent Family Settlement** | Assumes guest workers bring families and form permanent settlements | Gulf labor is **circular temporary male migration**; dependents and citizenship are barred. |
+| **19** | **2.12** | `VH926921` | **Chronological Migration Wave Trap (19th vs. 20th Century)** | Selects Latin America for 19th-century Catholic urban growth | 19th-century Catholicism = **Irish/German/Italian**; Latin American mass migration = late 20th century. |
 
 ---
 
@@ -499,7 +503,40 @@ When confronting multiple-choice questions on Unit 2, run each candidate choice 
 
 ---
 
-## 🎯 Antony's 9-Step MCQ Disqualification Protocol for Wednesday
+### Trap 17: Cultural Enclave Enrichment vs. "Lingua Franca" / "Immediate Political Power" (Topic 2.12)
+* **College Board Item Reference**: `VH926863`
+* **The Question Stem**: Which of the following explains a significant positive impact that the immigration of large populations of Chinese people had on places like Vancouver and Los Angeles?
+* **Antony's Selection**: Choice D ✅ (100% Mastery)
+* **The Distractor Traps**:
+  * *Option A (Cantonese as Lingua Franca)*: Lingua franca is a mutually adopted language for trade between different linguistic groups. Local native populations did not learn Cantonese; English remained dominant.
+  * *Option B (Assimilation & Immediate Political Power)*: Historically, Chinese immigrants faced exclusion acts and deep legal discrimination. They survived by forming autonomous ethnic enclaves (Chinatowns), not sudden municipal political control.
+  * *Option C (Conversion to Christianity)*: Immigrants maintained traditional Buddhism, Taoism, and folk practices.
+  * *Option E (Agricultural Trade Centers on Outskirts)*: Chinatowns formed dense urban commercial cores, not peripheral rural markets.
+* **Golden Rule**: Ethnic enclaves shape the cultural landscape through **cultural pluralism and diverse businesses/cuisine/architecture**, not linguistic conversion or political overthrow.
+
+### Trap 18: Gulf Guest Worker Circularity vs. Permanent Family Settlement (Topic 2.12)
+* **College Board Item Reference**: `VH923072`
+* **The Question Stem**: Which of the following explains the major effect of migration flow to Southwest Asia from other regions in Asia?
+* **Antony's Selection**: Choice D ✅ (100% Mastery)
+* **The Distractor Traps**:
+  * *Option B (Family Reunification & Permanent Urban Settlement)*: Massive distractor! Under the Arabian Gulf *kafala* sponsorship system, South Asian laborers (India, Pakistan, Bangladesh) are recruited as temporary single males. Bringing dependents is legally restricted, permanent residency/citizenship is denied, and workers return home after contracts.
+  * *Option A & C (Higher Education / Medical Tourism)*: Functional mismatch. Gulf flows are low-wage construction, infrastructure, and oil field manual labor.
+  * *Option E (Retirement Migration)*: Climate association fallacy. Migrants work in grueling 115°F+ desert oil fields, not leisure retirement.
+* **Golden Rule**: Southwest Asian labor migration creates **extreme working-age male demographic skews** and massive outward remittance flows; it does NOT produce permanent family settlements.
+
+### Trap 19: Chronological Migration Wave Trap (Topic 2.12)
+* **College Board Item Reference**: `VH926921`
+* **The Question Stem**: The early United States population was predominantly Protestant. In the nineteenth century, urban populations became increasingly Roman Catholic, especially in the cities of the Northeastern United States. This shift in the pattern of religion was caused by
+* **Antony's Selection**: Choice B ✅ (100% Mastery)
+* **The Distractor Traps**:
+  * *Option C (Transnational Migration from Latin America & Caribbean)*: **Chronological Timeline Trap**! While Latin American migration drives contemporary US Catholic demographics, mass Latin American immigration did not occur until the late 20th century (post-1965).
+  * *Option A (Internal Rural-to-Urban Migration)*: Domestic rural US migrants in the 1800s were predominantly Protestant; rural flight to cities would have increased Protestantism, not Catholicism.
+  * *Option D (Theological Conversion of Urban Residents)*: Religious changes were demographically driven by migration, not mass conversion.
+* **Golden Rule**: **Always check the century in the stem!** 19th century (1800s) US Catholic growth = **Ireland, Southern Germany, and Italy**. 20th/21st century Catholic growth = **Latin America and the Caribbean**.
+
+---
+
+## 🎯 Antony's 10-Step MCQ Disqualification Protocol for Wednesday
 
 When sitting down for the Block Day Exam:
 
@@ -540,6 +577,11 @@ When sitting down for the Block Day Exam:
 9. **Step 9: Step Migration vs. Chain Migration**
    * Moving through sequential intermediate stops (e.g., Italy $\rightarrow$ Germany $\rightarrow$ Sweden) is **STEP MIGRATION**.
    * Following family members or ethnic peers who moved previously is **CHAIN MIGRATION**.
+
+10. **Step 10: Effects of Migration — Enclaves, Guest Workers & Timelines**
+   * **Enclaves**: Bring cultural diversity, foods, and temples to the urban landscape; they do NOT create a new *lingua franca* or immediate political dominance.
+   * **Gulf Guest Workers**: Temporary, single working-age males under *kafala*; send remittances; NO permanent family settlement or citizenship.
+   * **Chronological Waves**: 1800s US Catholic growth = **Ireland/Germany/Italy** (NOT Latin America, which is post-1965).
 
 ---
 *Created for Antony Anish • Period 6 AP Human Geography • Block Day Unit 2 MCQ Summative Preparation*

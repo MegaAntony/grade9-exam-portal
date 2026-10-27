@@ -87,8 +87,9 @@
 * **Upcoming Assessment:** **Unit 2 MCQ Summative Exam** (Block Day)
 * **Scheduled Date:** **Wednesday/Thursday, October 28–29, 2026**
 * **Master Strategy Guide**:
-  * 🚨 **[Unit 2 MCQ Trap Alerts & Master Exam Strategy Guide (Markdown)](file:///Volumes/Backup/Antony/HighSchool/Grade9/000-Exam/AP_HUMAN_UNIT2_MCQ_TRAP_ALERTS_AND_EXAM_STRATEGY.md)** — **Critical Study Resource covering all 16 Traps across Topics 2.2, 2.4, 2.5, 2.6, 2.7, 2.9, 2.10, and 2.11**
-* **Recent Formatives (8 Formatives Analyzed — 71.4% Overall Diagnostic Mastery)**:
+  * 🚨 **[Unit 2 MCQ Trap Alerts & Master Exam Strategy Guide (Markdown)](file:///Volumes/Backup/Antony/HighSchool/Grade9/000-Exam/AP_HUMAN_UNIT2_MCQ_TRAP_ALERTS_AND_EXAM_STRATEGY.md)** — **Critical Study Resource covering all 19 Traps across Topics 2.2 through 2.12**
+* **Recent Formatives (9 Formatives Analyzed — 18/24 = 75.0% Diagnostic Mastery)**:
+  * ✅ **[Effects of Migration Quiz (Topic 2.12)](file:///Volumes/Backup/Antony/HighSchool/Grade9/000-Exam/ap_human_effects_migration_quiz_review.html)** (Assignment ID: `82042156`) — **100% Mastery (3/3 + AP Trap Alerts)**
   * ⚡ **[Forced and Voluntary Migration Quiz (Topic 2.11)](file:///Volumes/Backup/Antony/HighSchool/Grade9/000-Exam/ap_human_forced_voluntary_quiz_review.html)** (Assignment ID: `82042178`) — **Score: 2/3 (Step vs. Chain Migration Error Drill & AP Trap Alerts)**
   * ✅ **[Causes of Migration Quiz (Topic 2.10)](file:///Volumes/Backup/Antony/HighSchool/Grade9/000-Exam/ap_human_causes_migration_quiz_review.html)** (Assignment ID: `82042191`) — **100% Mastery (3/3 + AP Trap Alerts)**
   * ✅ **[Aging Populations Quiz (Topic 2.9)](file:///Volumes/Backup/Antony/HighSchool/Grade9/000-Exam/ap_human_aging_quiz_review.html)** (Assignment ID: `82042213`) — **100% Mastery (3/3 + AP Trap Alerts)**
@@ -100,49 +101,53 @@
 
 ### Verified Live & Local Study Links:
 1. 🚨 **[Unit 2 MCQ Trap Alerts & Master Exam Strategy Guide (Markdown)](file:///Volumes/Backup/Antony/HighSchool/Grade9/000-Exam/AP_HUMAN_UNIT2_MCQ_TRAP_ALERTS_AND_EXAM_STRATEGY.md)**
-   * Complete dissection of all 16 College Board distractor traps across Topics 2.2 through 2.11 + Antony's 9-step MCQ Disqualification Protocol.
-2. ⚡ **[Forced and Voluntary Migration Interactive Error Analysis App (Local)](file:///Volumes/Backup/Antony/HighSchool/Grade9/000-Exam/ap_human_forced_voluntary_quiz_review.html)**
+   * Complete dissection of all 19 College Board distractor traps across Topics 2.2 through 2.12 + Antony's 10-Step MCQ Disqualification Protocol.
+2. ✅ **[Effects of Migration Interactive Review App (Local)](file:///Volumes/Backup/Antony/HighSchool/Grade9/000-Exam/ap_human_effects_migration_quiz_review.html)**
+   * Complete 3-question review of Chinese immigrant enclaves, Persian Gulf guest workers, and 19th-century European Catholic immigration.
+3. 📘 **[Effects of Migration Master Question Bank & Rationales (Markdown)](file:///Volumes/Backup/Antony/HighSchool/Grade9/000-Exam/AP_HUMAN_EFFECTS_MIGRATION_QUIZ_MASTER_STUDY_GUIDE.md)**
+   * Item references (`VH926863`, `VH923072`, `VH926921`) with complete scoring notes and AP Trap Alerts.
+4. ⚡ **[Forced and Voluntary Migration Interactive Error Analysis App (Local)](file:///Volumes/Backup/Antony/HighSchool/Grade9/000-Exam/ap_human_forced_voluntary_quiz_review.html)**
    * Complete 3-question review of Syrian asylum seekers, Mediterranean step-migration transit routes, and Persian Gulf guest workers.
    * Deep deconstruction of Question 2 (Italy $\rightarrow$ Germany $\rightarrow$ Sweden is Step Migration, not Chain Migration).
-3. 📘 **[Forced and Voluntary Migration Master Question Bank & Rationales (Markdown)](file:///Volumes/Backup/Antony/HighSchool/Grade9/000-Exam/AP_HUMAN_FORCED_VOLUNTARY_QUIZ_MASTER_STUDY_GUIDE.md)**
+5. 📘 **[Forced and Voluntary Migration Master Question Bank & Rationales (Markdown)](file:///Volumes/Backup/Antony/HighSchool/Grade9/000-Exam/AP_HUMAN_FORCED_VOLUNTARY_QUIZ_MASTER_STUDY_GUIDE.md)**
    * Item references (`VH936993`, `VH928913`, `VH936991`) with complete scoring notes and AP Trap Alerts.
-4. ✅ **[Causes of Migration Interactive Review App (Local)](file:///Volumes/Backup/Antony/HighSchool/Grade9/000-Exam/ap_human_causes_migration_quiz_review.html)**
+6. ✅ **[Causes of Migration Interactive Review App (Local)](file:///Volumes/Backup/Antony/HighSchool/Grade9/000-Exam/ap_human_causes_migration_quiz_review.html)**
    * Complete 3-question review of voluntary international migration (Mumbai to London), asylum pull factors, and Syrian refugee push factors.
-5. 📘 **[Causes of Migration Master Question Bank & Rationales (Markdown)](file:///Volumes/Backup/Antony/HighSchool/Grade9/000-Exam/AP_HUMAN_CAUSES_MIGRATION_QUIZ_MASTER_STUDY_GUIDE.md)**
+7. 📘 **[Causes of Migration Master Question Bank & Rationales (Markdown)](file:///Volumes/Backup/Antony/HighSchool/Grade9/000-Exam/AP_HUMAN_CAUSES_MIGRATION_QUIZ_MASTER_STUDY_GUIDE.md)**
    * Item references (`VH928929`, `VH928911`, `VH928906`) with complete scoring notes and AP Trap Alerts.
-6. ✅ **[Aging Populations Interactive Review App (Local)](file:///Volumes/Backup/Antony/HighSchool/Grade9/000-Exam/ap_human_aging_quiz_review.html)**
+8. ✅ **[Aging Populations Interactive Review App (Local)](file:///Volumes/Backup/Antony/HighSchool/Grade9/000-Exam/ap_human_aging_quiz_review.html)**
    * Complete 3-question review of graying labor forces, MDC elder care/pension fiscal stress, and LDC life expectancy gains.
-7. 📘 **[Aging Populations Master Question Bank & Rationales (Markdown)](file:///Volumes/Backup/Antony/HighSchool/Grade9/000-Exam/AP_HUMAN_AGING_QUIZ_MASTER_STUDY_GUIDE.md)**
+9. 📘 **[Aging Populations Master Question Bank & Rationales (Markdown)](file:///Volumes/Backup/Antony/HighSchool/Grade9/000-Exam/AP_HUMAN_AGING_QUIZ_MASTER_STUDY_GUIDE.md)**
    * Item references (`VH929949`, `VH929942`, `VH929938`) with complete scoring notes and AP Trap Alerts.
-8. ✅ **[Population Policies Interactive Review App (Local)](file:///Volumes/Backup/Antony/HighSchool/Grade9/000-Exam/ap_human_policies_quiz_review.html)**
-   * Complete 3-question review of China's One-Child 4-2-1 elder dependency crisis, pro-natalist negative NIR profiles, and anti-natalist family planning.
-9. 📘 **[Population Policies Master Question Bank & Rationales (Markdown)](file:///Volumes/Backup/Antony/HighSchool/Grade9/000-Exam/AP_HUMAN_POLICIES_QUIZ_MASTER_STUDY_GUIDE.md)**
-   * Item references (`VH928938`, `VH928935`, `VH928932`) with complete scoring notes and AP Trap Alerts.
-10. ⚡ **[Malthusian Theory Interactive Error Analysis App (Local)](file:///Volumes/Backup/Antony/HighSchool/Grade9/000-Exam/ap_human_malthus_quiz_review.html)**
+10. ✅ **[Population Policies Interactive Review App (Local)](file:///Volumes/Backup/Antony/HighSchool/Grade9/000-Exam/ap_human_policies_quiz_review.html)**
+    * Complete 3-question review of China's One-Child 4-2-1 elder dependency crisis, pro-natalist negative NIR profiles, and anti-natalist family planning.
+11. 📘 **[Population Policies Master Question Bank & Rationales (Markdown)](file:///Volumes/Backup/Antony/HighSchool/Grade9/000-Exam/AP_HUMAN_POLICIES_QUIZ_MASTER_STUDY_GUIDE.md)**
+    * Item references (`VH928938`, `VH928935`, `VH928932`) with complete scoring notes and AP Trap Alerts.
+12. ⚡ **[Malthusian Theory Interactive Error Analysis App (Local)](file:///Volumes/Backup/Antony/HighSchool/Grade9/000-Exam/ap_human_malthus_quiz_review.html)**
     * Complete 3-question review of Malthus premises, Boserup counter-theories, and Neo-Malthusian resource models.
     * Deep deconstruction of Question 2 (how factory urbanization reduced birth rates).
-11. 📘 **[Malthusian Theory Master Question Bank & Rationales (Markdown)](file:///Volumes/Backup/Antony/HighSchool/Grade9/000-Exam/AP_HUMAN_MALTHUS_QUIZ_MASTER_STUDY_GUIDE.md)**
+13. 📘 **[Malthusian Theory Master Question Bank & Rationales (Markdown)](file:///Volumes/Backup/Antony/HighSchool/Grade9/000-Exam/AP_HUMAN_MALTHUS_QUIZ_MASTER_STUDY_GUIDE.md)**
     * Item references (`VH926795`, `VH926684`, `VH926479`) with complete scoring notes and AP Trap Alerts.
-12. 🚨 **[DTM Quiz Interactive Error Analysis App (Local)](file:///Volumes/Backup/Antony/HighSchool/Grade9/000-Exam/ap_human_dtm_quiz_review.html)**
+14. 🚨 **[DTM Quiz Interactive Error Analysis App (Local)](file:///Volumes/Backup/Antony/HighSchool/Grade9/000-Exam/ap_human_dtm_quiz_review.html)**
     * Complete 3-question review of Demographic Indicators table (Germany, Italy, Japan) and 5-stage DTM diagram.
     * Deep deconstruction of China (Stage 4) vs. Bolivia (Stage 3) and Epidemiological Transition degenerative mortality.
-13. 📘 **[DTM Quiz Master Question Bank & Rationales (Markdown)](file:///Volumes/Backup/Antony/HighSchool/Grade9/000-Exam/AP_HUMAN_DTM_QUIZ_MASTER_STUDY_GUIDE.md)**
+15. 📘 **[DTM Quiz Master Question Bank & Rationales (Markdown)](file:///Volumes/Backup/Antony/HighSchool/Grade9/000-Exam/AP_HUMAN_DTM_QUIZ_MASTER_STUDY_GUIDE.md)**
     * Item references (`VH932929`, `VH926464`, `VH926218`) with complete scoring notes and AP Trap Alerts.
-14. 🚨 **[Population Dynamics Interactive Error Analysis App (Local)](file:///Volumes/Backup/Antony/HighSchool/Grade9/000-Exam/ap_human_population_dynamics_quiz_review.html)**
+16. 🚨 **[Population Dynamics Interactive Error Analysis App (Local)](file:///Volumes/Backup/Antony/HighSchool/Grade9/000-Exam/ap_human_population_dynamics_quiz_review.html)**
     * Complete 3-question review of 4-Stage DTM graph, Metropolitan Area table (City A vs B), and 2000–2050 regional growth projections.
     * Prominent AP Trap Alert warning cards with pedagogical deconstruction for each question.
-15. 📘 **[Population Dynamics Master Question Bank & Rationales (Markdown)](file:///Volumes/Backup/Antony/HighSchool/Grade9/000-Exam/AP_HUMAN_POPULATION_DYNAMICS_QUIZ_MASTER_STUDY_GUIDE.md)**
+17. 📘 **[Population Dynamics Master Question Bank & Rationales (Markdown)](file:///Volumes/Backup/Antony/HighSchool/Grade9/000-Exam/AP_HUMAN_POPULATION_DYNAMICS_QUIZ_MASTER_STUDY_GUIDE.md)**
     * Item references (`VH911626`, `VH911869`, `VH917081`) with complete scoring notes and AP Trap Alerts.
-16. 🔥 **[Consequences of Population Distribution Interactive Review App (Local)](file:///Volumes/Backup/Antony/HighSchool/Grade9/000-Exam/ap_human_consequences_quiz_review.html)**
+18. 🔥 **[Consequences of Population Distribution Interactive Review App (Local)](file:///Volumes/Backup/Antony/HighSchool/Grade9/000-Exam/ap_human_consequences_quiz_review.html)**
     * Complete 3-question AP Classroom review with high-resolution proportional symbol Brazil map.
     * Full distractor rationales, AP Trap Alerts, and CED Skill 2.C explanations.
-17. 📘 **[Consequences Quiz Master Question Bank & Rationales (Markdown)](file:///Volumes/Backup/Antony/HighSchool/Grade9/000-Exam/AP_HUMAN_CONSEQUENCES_QUIZ_MASTER_STUDY_GUIDE.md)**
+19. 📘 **[Consequences Quiz Master Question Bank & Rationales (Markdown)](file:///Volumes/Backup/Antony/HighSchool/Grade9/000-Exam/AP_HUMAN_CONSEQUENCES_QUIZ_MASTER_STUDY_GUIDE.md)**
     * Full markdown transcript with College Board item references (`VH929906`, `VH932892`, `VH911513`) and AP Trap Alerts.
-18. 🎯 **[Unit 2 Master Study Center & 12-Topic Learning Portals (Local)](file:///Volumes/Backup/Antony/HighSchool/Grade9/HumanGeography/StudyMaterials/ExamsMaterials/02-Unit2-Population-and-Migration/README.md)**
+20. 🎯 **[Unit 2 Master Study Center & 12-Topic Learning Portals (Local)](file:///Volumes/Backup/Antony/HighSchool/Grade9/HumanGeography/StudyMaterials/ExamsMaterials/02-Unit2-Population-and-Migration/README.md)**
     * Covers all CED Topics 2.1 through 2.12 with quantitative labs, DTM models, and flashcards.
-19. 🧠 **[Unit 2 Interactive Spaced-Repetition Vocab App (Local)](file:///Volumes/Backup/Antony/HighSchool/Grade9/HumanGeography/StudyMaterials/ExamsMaterials/02-Unit2-Population-and-Migration/01_Vocabulary_Mastery/Unit2_Vocab_Study.html)**
+21. 🧠 **[Unit 2 Interactive Spaced-Repetition Vocab App (Local)](file:///Volumes/Backup/Antony/HighSchool/Grade9/HumanGeography/StudyMaterials/ExamsMaterials/02-Unit2-Population-and-Migration/01_Vocabulary_Mastery/Unit2_Vocab_Study.html)**
     * 73 AP Human Geography key terms with ELI9 definitions and scenario drills.
-20. 📊 **[Unit 2 AP Classroom 36-Question Progress Check Review App (Local)](file:///Volumes/Backup/Antony/HighSchool/Grade9/HumanGeography/collegeBoard/unit2/ap_classroom_unit2_mcq_review.html)**
+22. 📊 **[Unit 2 AP Classroom 36-Question Progress Check Review App (Local)](file:///Volumes/Backup/Antony/HighSchool/Grade9/HumanGeography/collegeBoard/unit2/ap_classroom_unit2_mcq_review.html)**
     * Full 36-question Progress Check with Learnosity stimulus graphics and data tables.
 
 ---
